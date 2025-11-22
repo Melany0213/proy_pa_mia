@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Buscador Reactivo de Películas</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/rxjs/7.8.1/rxjs.umd.min.js"></script>
+
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f3f6fb;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1100px;
+            margin-top: 40px;
+            background: white;
+            padding: 30px;
+            border-radius: 18px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+            display: grid;
+            grid-template-columns: 2fr 1.2fr;
+            gap: 30px;
+        }
+
+        .left-column, .right-column {
+            display: flex;
+            flex-direction: column;
+        }
+
+        h1 {
+            font-size: 26px;
+            margin-bottom: 5px;
+            font-weight: 700;
+            color: #1a1a1a;
+        }
+
+        p.subtitle {
+            margin-top: 0;
+            margin-bottom: 20px;
+            color: #666;
+        }
+
+        .search-box {
+            margin-bottom: 15px;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #d0d6e0;
+            border-radius: 10px;
+            font-size: 15px;
+            transition: all 0.2s;
+        }
+
+        .search-box input:focus {
+            outline: none;
+            border-color: #4c71f0;
+            box-shadow: 0 0 6px rgba(76,113,240,0.3);
+        }
+
+        .filters {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 10px;
+            flex-wrap: wrap;
+        }
+
+        .filters input, .filters select {
+            padding: 8px;
+            border-radius: 8px;
+            border: 1px solid #d0d6e0;
+            font-size: 13px;
+            min-width: 120px;
+        }
+
+        #loading {
+            font-size: 13px;
+            color: #4c71f0;
+            margin-bottom: 10px;
+            display: none;
+        }
+
+        .results-box {
+            border-radius: 12px;
+            overflow: hidden;
+            border: 1px solid #e0e4eb;
+            background: #fafbff;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+
+        .item {
+            padding: 10px 12px;
+            background: white;
+            border-bottom: 1px solid #eceff4;
+            cursor: pointer;
+            transition: background 0.15s;
+            font-size: 14px;
+        }
+
+        .item:hover {
+            background: #eef2ff;
+        }
+
+        .item:last-child {
+            border-bottom: none;
+        }
+
+        .section-title {
+            margin-top: 10px;
+            margin-bottom: 8px;
+            font-size: 16px;
+            font-weight: 600;
+        }
+
+        #detail {
+            display: flex;
+            gap: 16px;
+            align-items: flex-start;
+            border-radius: 12px;
+            border: 1px solid #e0e4eb;
+            padding: 12px;
+            background: #fafbff;
+            min-height: 150px;
+        }
+
+        #detail img {
+            width: 130px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+        }
+
+        #detail h3 {
+            margin: 0 0 5px 0;
+        }
+
+        #detail p {
+            margin: 4px 0;
+            font-size: 14px;
+            color: #444;
+        }
+
+        #addFav {
+            margin-top: 8px;
+            padding: 8px 14px;
+            border: none;
+            border-radius: 6px;
+            background: #4c71f0;
+            color: white;
+            cursor: pointer;
+            font-size: 13px;
+        }
+
+        #addFav:hover {
+            background: #3b5de0;
+        }
+
+        .tag-list {
+            border-radius: 10px;
+            border: 1px solid #e0e4eb;
+            padding: 10px;
+            background: #fafbff;
+            min-height: 80px;
+        }
+
+        .tag {
+            display: inline-block;
+            background: #e1e6ff;
+            color: #23328f;
+            padding: 4px 8px;
+            border-radius: 999px;
+            font-size: 12px;
+            margin: 2px;
+        }
+
+        @media (max-width: 900px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="left-column">
+        <h1>Buscador Reactivo de Películas</h1>
+        <p class="subtitle">Django + RxJS · Programación reactiva basada en streams</p>
+
+        <div class="search-box">
+            <input id="search" type="text" placeholder="Escribe una película...">
+        </div>
+
+        <div class="filters">
+            <input id="minYear" type="number" placeholder="Año mínimo">
+            <input id="maxYear" type="number" placeholder="Año máximo">
+            <select id="sort">
+                <option value="title">Ordenar por título</option>
+                <option value="year">Ordenar por año</option>
+            </select>
+        </div>
+
+        <div id="loading">Buscando...</div>
+
+        <div class="results-box" id="results"></div>
+    </div>
+
+    <div class="right-column">
+        <div class="section-title">Detalle de la película seleccionada</div>
+        <div id="detail">
+            <p style="margin:0;font-size:13px;color:#777;">Selecciona una película en la lista para ver el detalle.</p>
+        </div>
+
+        <div class="section-title">⭐ Favoritos</div>
+        <div class="tag-list" id="favList">
+            <span style="font-size:12px;color:#777;">Todavía no has marcado ninguna película como favorita.</span>
+        </div>
+
+        <div class="section-title">🕘 Historial de búsqueda</div>
+        <div class="tag-list" id="historyList">
+            <span style="font-size:12px;color:#777;">Aquí verás tus términos de búsqueda recientes.</span>
+        </div>
+    </div>
+</div>
+
+<script>
+const { fromEvent, of, from, combineLatest, BehaviorSubject } = rxjs;
+const {
+    map, debounceTime, distinctUntilChanged,
+    switchMap, catchError, tap, retry, shareReplay,
+    filter, startWith
+} = rxjs.operators;
+
+const searchInput = document.getElementById("search");
+const resultsDiv = document.getElementById("results");
+const loading = document.getElementById("loading");
+const detailDiv = document.getElementById("detail");
+const minYearInput = document.getElementById("minYear");
+const maxYearInput = document.getElementById("maxYear");
+const sortSelect = document.getElementById("sort");
+const favListDiv = document.getElementById("favList");
+const historyListDiv = document.getElementById("historyList");
+
+// Estado global reactivo
+const favorites$ = new BehaviorSubject(
+    JSON.parse(localStorage.getItem("favorites") || "[]")
+);
+const history$ = new BehaviorSubject(
+    JSON.parse(localStorage.getItem("history") || "[]")
+);
+
+function fetchMovies(q) {
+    return from(fetch(`http://127.0.0.1:8000/api/movies?search=${encodeURIComponent(q)}`)
+        .then(res => res.json()));
+}
+
+function fetchMovieDetail(id) {
+    return from(fetch(`http://127.0.0.1:8000/api/movies/${id}`)
+        .then(res => res.json()));
+}
+
+// STREAM: texto de búsqueda
+const query$ = fromEvent(searchInput, "keyup").pipe(
+    map(e => e.target.value.trim()),
+    debounceTime(300),
+    distinctUntilChanged(),
+    tap(() => loading.style.display = "block")
+);
+
+// STREAM: filtros
+const minYear$ = fromEvent(minYearInput, "input").pipe(
+    map(e => parseInt(e.target.value) || 0),
+    startWith(0)
+);
+
+const maxYear$ = fromEvent(maxYearInput, "input").pipe(
+    map(e => parseInt(e.target.value) || 9999),
+    startWith(9999)
+);
+
+const sort$ = fromEvent(sortSelect, "change").pipe(
+    map(e => e.target.value),
+    startWith("title")
+);
+
+// STREAM: resultados base desde el backend
+const rawResults$ = query$.pipe(
+    switchMap(query => {
+        if (query.length < 2) {
+            return of({ query, results: [] });
+        }
+        return fetchMovies(query).pipe(
+            retry(1),
+            catchError(() => of([])),
+            map(results => ({ query, results }))
+        );
+    }),
+    tap(() => loading.style.display = "none"),
+    shareReplay(1)
+);
+
+// Actualizar historial cuando haya resultados y query válida
+rawResults$.subscribe(({ query, results }) => {
+    if (query.length >= 2 && results.length > 0) {
+        const current = history$.value;
+        if (!current.includes(query)) {
+            const updated = [query, ...current].slice(0, 10);
+            history$.next(updated);
+            localStorage.setItem("history", JSON.stringify(updated));
+        }
+    }
+});
+
+// STREAM: resultados filtrados y ordenados
+const filteredResults$ = combineLatest([rawResults$, minYear$, maxYear$, sort$]).pipe(
+    map(([{ results }, minY, maxY, sort]) => {
+        let r = results.filter(m => (m.year || 0) >= minY && (m.year || 9999) <= maxY);
+
+        if (sort === "title") {
+            r.sort((a, b) => a.title.localeCompare(b.title));
+        } else {
+            r.sort((a, b) => (a.year || 0) - (b.year || 0));
+        }
+
+        return r;
+    })
+);
+
+// Renderizado de resultados
+filteredResults$.subscribe(results => {
+    resultsDiv.innerHTML = "";
+    if (!results.length) {
+        resultsDiv.innerHTML = "<div class='item'>Sin resultados</div>";
+        return;
+    }
+    results.forEach(movie => {
+        resultsDiv.innerHTML += `
+            <div class="item" data-id="${movie.id}">
+                ${movie.title} (${movie.year})
+            </div>
+        `;
+    });
+});
+
+// STREAM: clic en una película -> detalle
+fromEvent(resultsDiv, "click").pipe(
+    map(e => e.target.closest(".item")),
+    filter(el => !!el && el.dataset.id),
+    map(el => parseInt(el.dataset.id)),
+    switchMap(id => fetchMovieDetail(id).pipe(catchError(() => of(null))))
+).subscribe(movie => {
+    if (!movie) {
+        detailDiv.innerHTML = "<p>Error al cargar el detalle.</p>";
+        return;
+    }
+
+    detailDiv.innerHTML = `
+        <img src="${movie.image_url}" alt="${movie.title}">
+        <div>
+            <h3>${movie.title} (${movie.year})</h3>
+            <p>${movie.description}</p>
+            <button id="addFav">⭐ Agregar a favoritos</button>
+        </div>
+    `;
+});
+
+// STREAM: clic en "Agregar a favoritos"
+fromEvent(document, "click").pipe(
+    filter(ev => ev.target && ev.target.id === "addFav")
+).subscribe(() => {
+    const titleElem = detailDiv.querySelector("h3");
+    if (!titleElem) return;
+    const title = titleElem.innerText;
+
+    const current = favorites$.value;
+    if (!current.includes(title)) {
+        const updated = [...current, title];
+        favorites$.next(updated);
+        localStorage.setItem("favorites", JSON.stringify(updated));
+    }
+});
+
+// Renderizar favoritos
+favorites$.subscribe(list => {
+    favListDiv.innerHTML = "";
+    if (!list.length) {
+        favListDiv.innerHTML = "<span style='font-size:12px;color:#777;'>Todavía no has marcado ninguna película como favorita.</span>";
+        return;
+    }
+    list.forEach(f => {
+        favListDiv.innerHTML += `<span class="tag">${f}</span>`;
+    });
+});
+
+// Renderizar historial
+history$.subscribe(list => {
+    historyListDiv.innerHTML = "";
+    if (!list.length) {
+        historyListDiv.innerHTML = "<span style='font-size:12px;color:#777;'>Aquí verás tus términos de búsqueda recientes.</span>";
+        return;
+    }
+    list.forEach(q => {
+        historyListDiv.innerHTML += `<span class="tag">${q}</span>`;
+    });
+});
+</script>
+
+</body>
+</html>

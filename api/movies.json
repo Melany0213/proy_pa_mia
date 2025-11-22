@@ -1,0 +1,3502 @@
+[
+    {
+        "id": 1,
+        "title": "The Shawshank Redemption",
+        "year": 1980,
+        "description": "Breve sinopsis de la película \"The Shawshank Redemption\", estrenada en el año 1980. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+1"
+    },
+    {
+        "id": 2,
+        "title": "The Godfather",
+        "year": 1981,
+        "description": "Breve sinopsis de la película \"The Godfather\", estrenada en el año 1981. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+2"
+    },
+    {
+        "id": 3,
+        "title": "The Dark Knight",
+        "year": 1982,
+        "description": "Breve sinopsis de la película \"The Dark Knight\", estrenada en el año 1982. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+3"
+    },
+    {
+        "id": 4,
+        "title": "Pulp Fiction",
+        "year": 1983,
+        "description": "Breve sinopsis de la película \"Pulp Fiction\", estrenada en el año 1983. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+4"
+    },
+    {
+        "id": 5,
+        "title": "Forrest Gump",
+        "year": 1984,
+        "description": "Breve sinopsis de la película \"Forrest Gump\", estrenada en el año 1984. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+5"
+    },
+    {
+        "id": 6,
+        "title": "Inception",
+        "year": 1985,
+        "description": "Breve sinopsis de la película \"Inception\", estrenada en el año 1985. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+6"
+    },
+    {
+        "id": 7,
+        "title": "Fight Club",
+        "year": 1986,
+        "description": "Breve sinopsis de la película \"Fight Club\", estrenada en el año 1986. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+7"
+    },
+    {
+        "id": 8,
+        "title": "The Matrix",
+        "year": 1987,
+        "description": "Breve sinopsis de la película \"The Matrix\", estrenada en el año 1987. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+8"
+    },
+    {
+        "id": 9,
+        "title": "Goodfellas",
+        "year": 1988,
+        "description": "Breve sinopsis de la película \"Goodfellas\", estrenada en el año 1988. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+9"
+    },
+    {
+        "id": 10,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 1989,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Fellowship of the Ring\", estrenada en el año 1989. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+10"
+    },
+    {
+        "id": 11,
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": 1990,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Two Towers\", estrenada en el año 1990. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+11"
+    },
+    {
+        "id": 12,
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 1991,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Return of the King\", estrenada en el año 1991. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+12"
+    },
+    {
+        "id": 13,
+        "title": "Interstellar",
+        "year": 1992,
+        "description": "Breve sinopsis de la película \"Interstellar\", estrenada en el año 1992. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+13"
+    },
+    {
+        "id": 14,
+        "title": "Parasite",
+        "year": 1993,
+        "description": "Breve sinopsis de la película \"Parasite\", estrenada en el año 1993. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+14"
+    },
+    {
+        "id": 15,
+        "title": "Gladiator",
+        "year": 1994,
+        "description": "Breve sinopsis de la película \"Gladiator\", estrenada en el año 1994. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+15"
+    },
+    {
+        "id": 16,
+        "title": "Whiplash",
+        "year": 1995,
+        "description": "Breve sinopsis de la película \"Whiplash\", estrenada en el año 1995. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+16"
+    },
+    {
+        "id": 17,
+        "title": "The Prestige",
+        "year": 1996,
+        "description": "Breve sinopsis de la película \"The Prestige\", estrenada en el año 1996. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+17"
+    },
+    {
+        "id": 18,
+        "title": "The Green Mile",
+        "year": 1997,
+        "description": "Breve sinopsis de la película \"The Green Mile\", estrenada en el año 1997. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+18"
+    },
+    {
+        "id": 19,
+        "title": "Se7en",
+        "year": 1998,
+        "description": "Breve sinopsis de la película \"Se7en\", estrenada en el año 1998. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+19"
+    },
+    {
+        "id": 20,
+        "title": "The Silence of the Lambs",
+        "year": 1999,
+        "description": "Breve sinopsis de la película \"The Silence of the Lambs\", estrenada en el año 1999. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+20"
+    },
+    {
+        "id": 21,
+        "title": "Saving Private Ryan",
+        "year": 2000,
+        "description": "Breve sinopsis de la película \"Saving Private Ryan\", estrenada en el año 2000. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+21"
+    },
+    {
+        "id": 22,
+        "title": "Schindler's List",
+        "year": 2001,
+        "description": "Breve sinopsis de la película \"Schindler's List\", estrenada en el año 2001. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+22"
+    },
+    {
+        "id": 23,
+        "title": "Spirited Away",
+        "year": 2002,
+        "description": "Breve sinopsis de la película \"Spirited Away\", estrenada en el año 2002. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+23"
+    },
+    {
+        "id": 24,
+        "title": "The Lion King",
+        "year": 2003,
+        "description": "Breve sinopsis de la película \"The Lion King\", estrenada en el año 2003. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+24"
+    },
+    {
+        "id": 25,
+        "title": "Terminator 2: Judgment Day",
+        "year": 2004,
+        "description": "Breve sinopsis de la película \"Terminator 2: Judgment Day\", estrenada en el año 2004. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+25"
+    },
+    {
+        "id": 26,
+        "title": "Back to the Future",
+        "year": 2005,
+        "description": "Breve sinopsis de la película \"Back to the Future\", estrenada en el año 2005. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+26"
+    },
+    {
+        "id": 27,
+        "title": "The Departed",
+        "year": 2006,
+        "description": "Breve sinopsis de la película \"The Departed\", estrenada en el año 2006. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+27"
+    },
+    {
+        "id": 28,
+        "title": "Django Unchained",
+        "year": 2007,
+        "description": "Breve sinopsis de la película \"Django Unchained\", estrenada en el año 2007. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+28"
+    },
+    {
+        "id": 29,
+        "title": "The Pianist",
+        "year": 2008,
+        "description": "Breve sinopsis de la película \"The Pianist\", estrenada en el año 2008. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+29"
+    },
+    {
+        "id": 30,
+        "title": "Avengers: Endgame",
+        "year": 2009,
+        "description": "Breve sinopsis de la película \"Avengers: Endgame\", estrenada en el año 2009. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+30"
+    },
+    {
+        "id": 31,
+        "title": "Avengers: Infinity War",
+        "year": 2010,
+        "description": "Breve sinopsis de la película \"Avengers: Infinity War\", estrenada en el año 2010. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+31"
+    },
+    {
+        "id": 32,
+        "title": "Jurassic Park",
+        "year": 2011,
+        "description": "Breve sinopsis de la película \"Jurassic Park\", estrenada en el año 2011. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+32"
+    },
+    {
+        "id": 33,
+        "title": "The Truman Show",
+        "year": 2012,
+        "description": "Breve sinopsis de la película \"The Truman Show\", estrenada en el año 2012. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+33"
+    },
+    {
+        "id": 34,
+        "title": "Mad Max: Fury Road",
+        "year": 2013,
+        "description": "Breve sinopsis de la película \"Mad Max: Fury Road\", estrenada en el año 2013. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+34"
+    },
+    {
+        "id": 35,
+        "title": "Alien",
+        "year": 2014,
+        "description": "Breve sinopsis de la película \"Alien\", estrenada en el año 2014. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+35"
+    },
+    {
+        "id": 36,
+        "title": "Aliens",
+        "year": 2015,
+        "description": "Breve sinopsis de la película \"Aliens\", estrenada en el año 2015. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+36"
+    },
+    {
+        "id": 37,
+        "title": "Toy Story",
+        "year": 2016,
+        "description": "Breve sinopsis de la película \"Toy Story\", estrenada en el año 2016. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+37"
+    },
+    {
+        "id": 38,
+        "title": "Toy Story 3",
+        "year": 2017,
+        "description": "Breve sinopsis de la película \"Toy Story 3\", estrenada en el año 2017. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+38"
+    },
+    {
+        "id": 39,
+        "title": "Coco",
+        "year": 2018,
+        "description": "Breve sinopsis de la película \"Coco\", estrenada en el año 2018. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+39"
+    },
+    {
+        "id": 40,
+        "title": "Up",
+        "year": 2019,
+        "description": "Breve sinopsis de la película \"Up\", estrenada en el año 2019. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+40"
+    },
+    {
+        "id": 41,
+        "title": "Inside Out",
+        "year": 2020,
+        "description": "Breve sinopsis de la película \"Inside Out\", estrenada en el año 2020. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+41"
+    },
+    {
+        "id": 42,
+        "title": "The Social Network",
+        "year": 2021,
+        "description": "Breve sinopsis de la película \"The Social Network\", estrenada en el año 2021. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+42"
+    },
+    {
+        "id": 43,
+        "title": "No Country for Old Men",
+        "year": 2022,
+        "description": "Breve sinopsis de la película \"No Country for Old Men\", estrenada en el año 2022. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+43"
+    },
+    {
+        "id": 44,
+        "title": "There Will Be Blood",
+        "year": 2023,
+        "description": "Breve sinopsis de la película \"There Will Be Blood\", estrenada en el año 2023. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+44"
+    },
+    {
+        "id": 45,
+        "title": "City of God",
+        "year": 2024,
+        "description": "Breve sinopsis de la película \"City of God\", estrenada en el año 2024. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+45"
+    },
+    {
+        "id": 46,
+        "title": "American Beauty",
+        "year": 1980,
+        "description": "Breve sinopsis de la película \"American Beauty\", estrenada en el año 1980. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+46"
+    },
+    {
+        "id": 47,
+        "title": "Braveheart",
+        "year": 1981,
+        "description": "Breve sinopsis de la película \"Braveheart\", estrenada en el año 1981. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+47"
+    },
+    {
+        "id": 48,
+        "title": "The Wolf of Wall Street",
+        "year": 1982,
+        "description": "Breve sinopsis de la película \"The Wolf of Wall Street\", estrenada en el año 1982. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+48"
+    },
+    {
+        "id": 49,
+        "title": "Inglourious Basterds",
+        "year": 1983,
+        "description": "Breve sinopsis de la película \"Inglourious Basterds\", estrenada en el año 1983. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+49"
+    },
+    {
+        "id": 50,
+        "title": "Shutter Island",
+        "year": 1984,
+        "description": "Breve sinopsis de la película \"Shutter Island\", estrenada en el año 1984. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+50"
+    },
+    {
+        "id": 51,
+        "title": "The Usual Suspects",
+        "year": 1985,
+        "description": "Breve sinopsis de la película \"The Usual Suspects\", estrenada en el año 1985. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+51"
+    },
+    {
+        "id": 52,
+        "title": "The Shawshank Redemption #2",
+        "year": 1986,
+        "description": "Breve sinopsis de la película \"The Shawshank Redemption #2\", estrenada en el año 1986. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+52"
+    },
+    {
+        "id": 53,
+        "title": "The Godfather #2",
+        "year": 1987,
+        "description": "Breve sinopsis de la película \"The Godfather #2\", estrenada en el año 1987. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+53"
+    },
+    {
+        "id": 54,
+        "title": "The Dark Knight #2",
+        "year": 1988,
+        "description": "Breve sinopsis de la película \"The Dark Knight #2\", estrenada en el año 1988. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+54"
+    },
+    {
+        "id": 55,
+        "title": "Pulp Fiction #2",
+        "year": 1989,
+        "description": "Breve sinopsis de la película \"Pulp Fiction #2\", estrenada en el año 1989. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+55"
+    },
+    {
+        "id": 56,
+        "title": "Forrest Gump #2",
+        "year": 1990,
+        "description": "Breve sinopsis de la película \"Forrest Gump #2\", estrenada en el año 1990. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+56"
+    },
+    {
+        "id": 57,
+        "title": "Inception #2",
+        "year": 1991,
+        "description": "Breve sinopsis de la película \"Inception #2\", estrenada en el año 1991. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+57"
+    },
+    {
+        "id": 58,
+        "title": "Fight Club #2",
+        "year": 1992,
+        "description": "Breve sinopsis de la película \"Fight Club #2\", estrenada en el año 1992. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+58"
+    },
+    {
+        "id": 59,
+        "title": "The Matrix #2",
+        "year": 1993,
+        "description": "Breve sinopsis de la película \"The Matrix #2\", estrenada en el año 1993. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+59"
+    },
+    {
+        "id": 60,
+        "title": "Goodfellas #2",
+        "year": 1994,
+        "description": "Breve sinopsis de la película \"Goodfellas #2\", estrenada en el año 1994. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+60"
+    },
+    {
+        "id": 61,
+        "title": "The Lord of the Rings: The Fellowship of the Ring #2",
+        "year": 1995,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Fellowship of the Ring #2\", estrenada en el año 1995. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+61"
+    },
+    {
+        "id": 62,
+        "title": "The Lord of the Rings: The Two Towers #2",
+        "year": 1996,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Two Towers #2\", estrenada en el año 1996. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+62"
+    },
+    {
+        "id": 63,
+        "title": "The Lord of the Rings: The Return of the King #2",
+        "year": 1997,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Return of the King #2\", estrenada en el año 1997. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+63"
+    },
+    {
+        "id": 64,
+        "title": "Interstellar #2",
+        "year": 1998,
+        "description": "Breve sinopsis de la película \"Interstellar #2\", estrenada en el año 1998. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+64"
+    },
+    {
+        "id": 65,
+        "title": "Parasite #2",
+        "year": 1999,
+        "description": "Breve sinopsis de la película \"Parasite #2\", estrenada en el año 1999. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+65"
+    },
+    {
+        "id": 66,
+        "title": "Gladiator #2",
+        "year": 2000,
+        "description": "Breve sinopsis de la película \"Gladiator #2\", estrenada en el año 2000. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+66"
+    },
+    {
+        "id": 67,
+        "title": "Whiplash #2",
+        "year": 2001,
+        "description": "Breve sinopsis de la película \"Whiplash #2\", estrenada en el año 2001. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+67"
+    },
+    {
+        "id": 68,
+        "title": "The Prestige #2",
+        "year": 2002,
+        "description": "Breve sinopsis de la película \"The Prestige #2\", estrenada en el año 2002. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+68"
+    },
+    {
+        "id": 69,
+        "title": "The Green Mile #2",
+        "year": 2003,
+        "description": "Breve sinopsis de la película \"The Green Mile #2\", estrenada en el año 2003. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+69"
+    },
+    {
+        "id": 70,
+        "title": "Se7en #2",
+        "year": 2004,
+        "description": "Breve sinopsis de la película \"Se7en #2\", estrenada en el año 2004. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+70"
+    },
+    {
+        "id": 71,
+        "title": "The Silence of the Lambs #2",
+        "year": 2005,
+        "description": "Breve sinopsis de la película \"The Silence of the Lambs #2\", estrenada en el año 2005. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+71"
+    },
+    {
+        "id": 72,
+        "title": "Saving Private Ryan #2",
+        "year": 2006,
+        "description": "Breve sinopsis de la película \"Saving Private Ryan #2\", estrenada en el año 2006. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+72"
+    },
+    {
+        "id": 73,
+        "title": "Schindler's List #2",
+        "year": 2007,
+        "description": "Breve sinopsis de la película \"Schindler's List #2\", estrenada en el año 2007. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+73"
+    },
+    {
+        "id": 74,
+        "title": "Spirited Away #2",
+        "year": 2008,
+        "description": "Breve sinopsis de la película \"Spirited Away #2\", estrenada en el año 2008. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+74"
+    },
+    {
+        "id": 75,
+        "title": "The Lion King #2",
+        "year": 2009,
+        "description": "Breve sinopsis de la película \"The Lion King #2\", estrenada en el año 2009. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+75"
+    },
+    {
+        "id": 76,
+        "title": "Terminator 2: Judgment Day #2",
+        "year": 2010,
+        "description": "Breve sinopsis de la película \"Terminator 2: Judgment Day #2\", estrenada en el año 2010. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+76"
+    },
+    {
+        "id": 77,
+        "title": "Back to the Future #2",
+        "year": 2011,
+        "description": "Breve sinopsis de la película \"Back to the Future #2\", estrenada en el año 2011. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+77"
+    },
+    {
+        "id": 78,
+        "title": "The Departed #2",
+        "year": 2012,
+        "description": "Breve sinopsis de la película \"The Departed #2\", estrenada en el año 2012. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+78"
+    },
+    {
+        "id": 79,
+        "title": "Django Unchained #2",
+        "year": 2013,
+        "description": "Breve sinopsis de la película \"Django Unchained #2\", estrenada en el año 2013. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+79"
+    },
+    {
+        "id": 80,
+        "title": "The Pianist #2",
+        "year": 2014,
+        "description": "Breve sinopsis de la película \"The Pianist #2\", estrenada en el año 2014. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+80"
+    },
+    {
+        "id": 81,
+        "title": "Avengers: Endgame #2",
+        "year": 2015,
+        "description": "Breve sinopsis de la película \"Avengers: Endgame #2\", estrenada en el año 2015. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+81"
+    },
+    {
+        "id": 82,
+        "title": "Avengers: Infinity War #2",
+        "year": 2016,
+        "description": "Breve sinopsis de la película \"Avengers: Infinity War #2\", estrenada en el año 2016. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+82"
+    },
+    {
+        "id": 83,
+        "title": "Jurassic Park #2",
+        "year": 2017,
+        "description": "Breve sinopsis de la película \"Jurassic Park #2\", estrenada en el año 2017. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+83"
+    },
+    {
+        "id": 84,
+        "title": "The Truman Show #2",
+        "year": 2018,
+        "description": "Breve sinopsis de la película \"The Truman Show #2\", estrenada en el año 2018. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+84"
+    },
+    {
+        "id": 85,
+        "title": "Mad Max: Fury Road #2",
+        "year": 2019,
+        "description": "Breve sinopsis de la película \"Mad Max: Fury Road #2\", estrenada en el año 2019. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+85"
+    },
+    {
+        "id": 86,
+        "title": "Alien #2",
+        "year": 2020,
+        "description": "Breve sinopsis de la película \"Alien #2\", estrenada en el año 2020. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+86"
+    },
+    {
+        "id": 87,
+        "title": "Aliens #2",
+        "year": 2021,
+        "description": "Breve sinopsis de la película \"Aliens #2\", estrenada en el año 2021. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+87"
+    },
+    {
+        "id": 88,
+        "title": "Toy Story #2",
+        "year": 2022,
+        "description": "Breve sinopsis de la película \"Toy Story #2\", estrenada en el año 2022. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+88"
+    },
+    {
+        "id": 89,
+        "title": "Toy Story 3 #2",
+        "year": 2023,
+        "description": "Breve sinopsis de la película \"Toy Story 3 #2\", estrenada en el año 2023. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+89"
+    },
+    {
+        "id": 90,
+        "title": "Coco #2",
+        "year": 2024,
+        "description": "Breve sinopsis de la película \"Coco #2\", estrenada en el año 2024. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+90"
+    },
+    {
+        "id": 91,
+        "title": "Up #2",
+        "year": 1980,
+        "description": "Breve sinopsis de la película \"Up #2\", estrenada en el año 1980. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+91"
+    },
+    {
+        "id": 92,
+        "title": "Inside Out #2",
+        "year": 1981,
+        "description": "Breve sinopsis de la película \"Inside Out #2\", estrenada en el año 1981. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+92"
+    },
+    {
+        "id": 93,
+        "title": "The Social Network #2",
+        "year": 1982,
+        "description": "Breve sinopsis de la película \"The Social Network #2\", estrenada en el año 1982. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+93"
+    },
+    {
+        "id": 94,
+        "title": "No Country for Old Men #2",
+        "year": 1983,
+        "description": "Breve sinopsis de la película \"No Country for Old Men #2\", estrenada en el año 1983. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+94"
+    },
+    {
+        "id": 95,
+        "title": "There Will Be Blood #2",
+        "year": 1984,
+        "description": "Breve sinopsis de la película \"There Will Be Blood #2\", estrenada en el año 1984. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+95"
+    },
+    {
+        "id": 96,
+        "title": "City of God #2",
+        "year": 1985,
+        "description": "Breve sinopsis de la película \"City of God #2\", estrenada en el año 1985. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+96"
+    },
+    {
+        "id": 97,
+        "title": "American Beauty #2",
+        "year": 1986,
+        "description": "Breve sinopsis de la película \"American Beauty #2\", estrenada en el año 1986. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+97"
+    },
+    {
+        "id": 98,
+        "title": "Braveheart #2",
+        "year": 1987,
+        "description": "Breve sinopsis de la película \"Braveheart #2\", estrenada en el año 1987. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+98"
+    },
+    {
+        "id": 99,
+        "title": "The Wolf of Wall Street #2",
+        "year": 1988,
+        "description": "Breve sinopsis de la película \"The Wolf of Wall Street #2\", estrenada en el año 1988. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+99"
+    },
+    {
+        "id": 100,
+        "title": "Inglourious Basterds #2",
+        "year": 1989,
+        "description": "Breve sinopsis de la película \"Inglourious Basterds #2\", estrenada en el año 1989. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+100"
+    },
+    {
+        "id": 101,
+        "title": "Shutter Island #2",
+        "year": 1990,
+        "description": "Breve sinopsis de la película \"Shutter Island #2\", estrenada en el año 1990. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+101"
+    },
+    {
+        "id": 102,
+        "title": "The Usual Suspects #2",
+        "year": 1991,
+        "description": "Breve sinopsis de la película \"The Usual Suspects #2\", estrenada en el año 1991. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+102"
+    },
+    {
+        "id": 103,
+        "title": "The Shawshank Redemption #3",
+        "year": 1992,
+        "description": "Breve sinopsis de la película \"The Shawshank Redemption #3\", estrenada en el año 1992. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+103"
+    },
+    {
+        "id": 104,
+        "title": "The Godfather #3",
+        "year": 1993,
+        "description": "Breve sinopsis de la película \"The Godfather #3\", estrenada en el año 1993. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+104"
+    },
+    {
+        "id": 105,
+        "title": "The Dark Knight #3",
+        "year": 1994,
+        "description": "Breve sinopsis de la película \"The Dark Knight #3\", estrenada en el año 1994. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+105"
+    },
+    {
+        "id": 106,
+        "title": "Pulp Fiction #3",
+        "year": 1995,
+        "description": "Breve sinopsis de la película \"Pulp Fiction #3\", estrenada en el año 1995. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+106"
+    },
+    {
+        "id": 107,
+        "title": "Forrest Gump #3",
+        "year": 1996,
+        "description": "Breve sinopsis de la película \"Forrest Gump #3\", estrenada en el año 1996. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+107"
+    },
+    {
+        "id": 108,
+        "title": "Inception #3",
+        "year": 1997,
+        "description": "Breve sinopsis de la película \"Inception #3\", estrenada en el año 1997. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+108"
+    },
+    {
+        "id": 109,
+        "title": "Fight Club #3",
+        "year": 1998,
+        "description": "Breve sinopsis de la película \"Fight Club #3\", estrenada en el año 1998. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+109"
+    },
+    {
+        "id": 110,
+        "title": "The Matrix #3",
+        "year": 1999,
+        "description": "Breve sinopsis de la película \"The Matrix #3\", estrenada en el año 1999. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+110"
+    },
+    {
+        "id": 111,
+        "title": "Goodfellas #3",
+        "year": 2000,
+        "description": "Breve sinopsis de la película \"Goodfellas #3\", estrenada en el año 2000. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+111"
+    },
+    {
+        "id": 112,
+        "title": "The Lord of the Rings: The Fellowship of the Ring #3",
+        "year": 2001,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Fellowship of the Ring #3\", estrenada en el año 2001. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+112"
+    },
+    {
+        "id": 113,
+        "title": "The Lord of the Rings: The Two Towers #3",
+        "year": 2002,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Two Towers #3\", estrenada en el año 2002. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+113"
+    },
+    {
+        "id": 114,
+        "title": "The Lord of the Rings: The Return of the King #3",
+        "year": 2003,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Return of the King #3\", estrenada en el año 2003. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+114"
+    },
+    {
+        "id": 115,
+        "title": "Interstellar #3",
+        "year": 2004,
+        "description": "Breve sinopsis de la película \"Interstellar #3\", estrenada en el año 2004. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+115"
+    },
+    {
+        "id": 116,
+        "title": "Parasite #3",
+        "year": 2005,
+        "description": "Breve sinopsis de la película \"Parasite #3\", estrenada en el año 2005. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+116"
+    },
+    {
+        "id": 117,
+        "title": "Gladiator #3",
+        "year": 2006,
+        "description": "Breve sinopsis de la película \"Gladiator #3\", estrenada en el año 2006. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+117"
+    },
+    {
+        "id": 118,
+        "title": "Whiplash #3",
+        "year": 2007,
+        "description": "Breve sinopsis de la película \"Whiplash #3\", estrenada en el año 2007. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+118"
+    },
+    {
+        "id": 119,
+        "title": "The Prestige #3",
+        "year": 2008,
+        "description": "Breve sinopsis de la película \"The Prestige #3\", estrenada en el año 2008. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+119"
+    },
+    {
+        "id": 120,
+        "title": "The Green Mile #3",
+        "year": 2009,
+        "description": "Breve sinopsis de la película \"The Green Mile #3\", estrenada en el año 2009. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+120"
+    },
+    {
+        "id": 121,
+        "title": "Se7en #3",
+        "year": 2010,
+        "description": "Breve sinopsis de la película \"Se7en #3\", estrenada en el año 2010. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+121"
+    },
+    {
+        "id": 122,
+        "title": "The Silence of the Lambs #3",
+        "year": 2011,
+        "description": "Breve sinopsis de la película \"The Silence of the Lambs #3\", estrenada en el año 2011. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+122"
+    },
+    {
+        "id": 123,
+        "title": "Saving Private Ryan #3",
+        "year": 2012,
+        "description": "Breve sinopsis de la película \"Saving Private Ryan #3\", estrenada en el año 2012. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+123"
+    },
+    {
+        "id": 124,
+        "title": "Schindler's List #3",
+        "year": 2013,
+        "description": "Breve sinopsis de la película \"Schindler's List #3\", estrenada en el año 2013. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+124"
+    },
+    {
+        "id": 125,
+        "title": "Spirited Away #3",
+        "year": 2014,
+        "description": "Breve sinopsis de la película \"Spirited Away #3\", estrenada en el año 2014. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+125"
+    },
+    {
+        "id": 126,
+        "title": "The Lion King #3",
+        "year": 2015,
+        "description": "Breve sinopsis de la película \"The Lion King #3\", estrenada en el año 2015. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+126"
+    },
+    {
+        "id": 127,
+        "title": "Terminator 2: Judgment Day #3",
+        "year": 2016,
+        "description": "Breve sinopsis de la película \"Terminator 2: Judgment Day #3\", estrenada en el año 2016. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+127"
+    },
+    {
+        "id": 128,
+        "title": "Back to the Future #3",
+        "year": 2017,
+        "description": "Breve sinopsis de la película \"Back to the Future #3\", estrenada en el año 2017. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+128"
+    },
+    {
+        "id": 129,
+        "title": "The Departed #3",
+        "year": 2018,
+        "description": "Breve sinopsis de la película \"The Departed #3\", estrenada en el año 2018. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+129"
+    },
+    {
+        "id": 130,
+        "title": "Django Unchained #3",
+        "year": 2019,
+        "description": "Breve sinopsis de la película \"Django Unchained #3\", estrenada en el año 2019. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+130"
+    },
+    {
+        "id": 131,
+        "title": "The Pianist #3",
+        "year": 2020,
+        "description": "Breve sinopsis de la película \"The Pianist #3\", estrenada en el año 2020. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+131"
+    },
+    {
+        "id": 132,
+        "title": "Avengers: Endgame #3",
+        "year": 2021,
+        "description": "Breve sinopsis de la película \"Avengers: Endgame #3\", estrenada en el año 2021. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+132"
+    },
+    {
+        "id": 133,
+        "title": "Avengers: Infinity War #3",
+        "year": 2022,
+        "description": "Breve sinopsis de la película \"Avengers: Infinity War #3\", estrenada en el año 2022. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+133"
+    },
+    {
+        "id": 134,
+        "title": "Jurassic Park #3",
+        "year": 2023,
+        "description": "Breve sinopsis de la película \"Jurassic Park #3\", estrenada en el año 2023. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+134"
+    },
+    {
+        "id": 135,
+        "title": "The Truman Show #3",
+        "year": 2024,
+        "description": "Breve sinopsis de la película \"The Truman Show #3\", estrenada en el año 2024. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+135"
+    },
+    {
+        "id": 136,
+        "title": "Mad Max: Fury Road #3",
+        "year": 1980,
+        "description": "Breve sinopsis de la película \"Mad Max: Fury Road #3\", estrenada en el año 1980. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+136"
+    },
+    {
+        "id": 137,
+        "title": "Alien #3",
+        "year": 1981,
+        "description": "Breve sinopsis de la película \"Alien #3\", estrenada en el año 1981. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+137"
+    },
+    {
+        "id": 138,
+        "title": "Aliens #3",
+        "year": 1982,
+        "description": "Breve sinopsis de la película \"Aliens #3\", estrenada en el año 1982. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+138"
+    },
+    {
+        "id": 139,
+        "title": "Toy Story #3",
+        "year": 1983,
+        "description": "Breve sinopsis de la película \"Toy Story #3\", estrenada en el año 1983. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+139"
+    },
+    {
+        "id": 140,
+        "title": "Toy Story 3 #3",
+        "year": 1984,
+        "description": "Breve sinopsis de la película \"Toy Story 3 #3\", estrenada en el año 1984. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+140"
+    },
+    {
+        "id": 141,
+        "title": "Coco #3",
+        "year": 1985,
+        "description": "Breve sinopsis de la película \"Coco #3\", estrenada en el año 1985. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+141"
+    },
+    {
+        "id": 142,
+        "title": "Up #3",
+        "year": 1986,
+        "description": "Breve sinopsis de la película \"Up #3\", estrenada en el año 1986. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+142"
+    },
+    {
+        "id": 143,
+        "title": "Inside Out #3",
+        "year": 1987,
+        "description": "Breve sinopsis de la película \"Inside Out #3\", estrenada en el año 1987. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+143"
+    },
+    {
+        "id": 144,
+        "title": "The Social Network #3",
+        "year": 1988,
+        "description": "Breve sinopsis de la película \"The Social Network #3\", estrenada en el año 1988. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+144"
+    },
+    {
+        "id": 145,
+        "title": "No Country for Old Men #3",
+        "year": 1989,
+        "description": "Breve sinopsis de la película \"No Country for Old Men #3\", estrenada en el año 1989. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+145"
+    },
+    {
+        "id": 146,
+        "title": "There Will Be Blood #3",
+        "year": 1990,
+        "description": "Breve sinopsis de la película \"There Will Be Blood #3\", estrenada en el año 1990. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+146"
+    },
+    {
+        "id": 147,
+        "title": "City of God #3",
+        "year": 1991,
+        "description": "Breve sinopsis de la película \"City of God #3\", estrenada en el año 1991. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+147"
+    },
+    {
+        "id": 148,
+        "title": "American Beauty #3",
+        "year": 1992,
+        "description": "Breve sinopsis de la película \"American Beauty #3\", estrenada en el año 1992. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+148"
+    },
+    {
+        "id": 149,
+        "title": "Braveheart #3",
+        "year": 1993,
+        "description": "Breve sinopsis de la película \"Braveheart #3\", estrenada en el año 1993. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+149"
+    },
+    {
+        "id": 150,
+        "title": "The Wolf of Wall Street #3",
+        "year": 1994,
+        "description": "Breve sinopsis de la película \"The Wolf of Wall Street #3\", estrenada en el año 1994. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+150"
+    },
+    {
+        "id": 151,
+        "title": "Inglourious Basterds #3",
+        "year": 1995,
+        "description": "Breve sinopsis de la película \"Inglourious Basterds #3\", estrenada en el año 1995. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+151"
+    },
+    {
+        "id": 152,
+        "title": "Shutter Island #3",
+        "year": 1996,
+        "description": "Breve sinopsis de la película \"Shutter Island #3\", estrenada en el año 1996. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+152"
+    },
+    {
+        "id": 153,
+        "title": "The Usual Suspects #3",
+        "year": 1997,
+        "description": "Breve sinopsis de la película \"The Usual Suspects #3\", estrenada en el año 1997. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+153"
+    },
+    {
+        "id": 154,
+        "title": "The Shawshank Redemption #4",
+        "year": 1998,
+        "description": "Breve sinopsis de la película \"The Shawshank Redemption #4\", estrenada en el año 1998. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+154"
+    },
+    {
+        "id": 155,
+        "title": "The Godfather #4",
+        "year": 1999,
+        "description": "Breve sinopsis de la película \"The Godfather #4\", estrenada en el año 1999. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+155"
+    },
+    {
+        "id": 156,
+        "title": "The Dark Knight #4",
+        "year": 2000,
+        "description": "Breve sinopsis de la película \"The Dark Knight #4\", estrenada en el año 2000. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+156"
+    },
+    {
+        "id": 157,
+        "title": "Pulp Fiction #4",
+        "year": 2001,
+        "description": "Breve sinopsis de la película \"Pulp Fiction #4\", estrenada en el año 2001. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+157"
+    },
+    {
+        "id": 158,
+        "title": "Forrest Gump #4",
+        "year": 2002,
+        "description": "Breve sinopsis de la película \"Forrest Gump #4\", estrenada en el año 2002. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+158"
+    },
+    {
+        "id": 159,
+        "title": "Inception #4",
+        "year": 2003,
+        "description": "Breve sinopsis de la película \"Inception #4\", estrenada en el año 2003. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+159"
+    },
+    {
+        "id": 160,
+        "title": "Fight Club #4",
+        "year": 2004,
+        "description": "Breve sinopsis de la película \"Fight Club #4\", estrenada en el año 2004. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+160"
+    },
+    {
+        "id": 161,
+        "title": "The Matrix #4",
+        "year": 2005,
+        "description": "Breve sinopsis de la película \"The Matrix #4\", estrenada en el año 2005. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+161"
+    },
+    {
+        "id": 162,
+        "title": "Goodfellas #4",
+        "year": 2006,
+        "description": "Breve sinopsis de la película \"Goodfellas #4\", estrenada en el año 2006. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+162"
+    },
+    {
+        "id": 163,
+        "title": "The Lord of the Rings: The Fellowship of the Ring #4",
+        "year": 2007,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Fellowship of the Ring #4\", estrenada en el año 2007. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+163"
+    },
+    {
+        "id": 164,
+        "title": "The Lord of the Rings: The Two Towers #4",
+        "year": 2008,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Two Towers #4\", estrenada en el año 2008. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+164"
+    },
+    {
+        "id": 165,
+        "title": "The Lord of the Rings: The Return of the King #4",
+        "year": 2009,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Return of the King #4\", estrenada en el año 2009. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+165"
+    },
+    {
+        "id": 166,
+        "title": "Interstellar #4",
+        "year": 2010,
+        "description": "Breve sinopsis de la película \"Interstellar #4\", estrenada en el año 2010. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+166"
+    },
+    {
+        "id": 167,
+        "title": "Parasite #4",
+        "year": 2011,
+        "description": "Breve sinopsis de la película \"Parasite #4\", estrenada en el año 2011. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+167"
+    },
+    {
+        "id": 168,
+        "title": "Gladiator #4",
+        "year": 2012,
+        "description": "Breve sinopsis de la película \"Gladiator #4\", estrenada en el año 2012. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+168"
+    },
+    {
+        "id": 169,
+        "title": "Whiplash #4",
+        "year": 2013,
+        "description": "Breve sinopsis de la película \"Whiplash #4\", estrenada en el año 2013. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+169"
+    },
+    {
+        "id": 170,
+        "title": "The Prestige #4",
+        "year": 2014,
+        "description": "Breve sinopsis de la película \"The Prestige #4\", estrenada en el año 2014. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+170"
+    },
+    {
+        "id": 171,
+        "title": "The Green Mile #4",
+        "year": 2015,
+        "description": "Breve sinopsis de la película \"The Green Mile #4\", estrenada en el año 2015. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+171"
+    },
+    {
+        "id": 172,
+        "title": "Se7en #4",
+        "year": 2016,
+        "description": "Breve sinopsis de la película \"Se7en #4\", estrenada en el año 2016. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+172"
+    },
+    {
+        "id": 173,
+        "title": "The Silence of the Lambs #4",
+        "year": 2017,
+        "description": "Breve sinopsis de la película \"The Silence of the Lambs #4\", estrenada en el año 2017. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+173"
+    },
+    {
+        "id": 174,
+        "title": "Saving Private Ryan #4",
+        "year": 2018,
+        "description": "Breve sinopsis de la película \"Saving Private Ryan #4\", estrenada en el año 2018. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+174"
+    },
+    {
+        "id": 175,
+        "title": "Schindler's List #4",
+        "year": 2019,
+        "description": "Breve sinopsis de la película \"Schindler's List #4\", estrenada en el año 2019. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+175"
+    },
+    {
+        "id": 176,
+        "title": "Spirited Away #4",
+        "year": 2020,
+        "description": "Breve sinopsis de la película \"Spirited Away #4\", estrenada en el año 2020. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+176"
+    },
+    {
+        "id": 177,
+        "title": "The Lion King #4",
+        "year": 2021,
+        "description": "Breve sinopsis de la película \"The Lion King #4\", estrenada en el año 2021. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+177"
+    },
+    {
+        "id": 178,
+        "title": "Terminator 2: Judgment Day #4",
+        "year": 2022,
+        "description": "Breve sinopsis de la película \"Terminator 2: Judgment Day #4\", estrenada en el año 2022. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+178"
+    },
+    {
+        "id": 179,
+        "title": "Back to the Future #4",
+        "year": 2023,
+        "description": "Breve sinopsis de la película \"Back to the Future #4\", estrenada en el año 2023. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+179"
+    },
+    {
+        "id": 180,
+        "title": "The Departed #4",
+        "year": 2024,
+        "description": "Breve sinopsis de la película \"The Departed #4\", estrenada en el año 2024. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+180"
+    },
+    {
+        "id": 181,
+        "title": "Django Unchained #4",
+        "year": 1980,
+        "description": "Breve sinopsis de la película \"Django Unchained #4\", estrenada en el año 1980. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+181"
+    },
+    {
+        "id": 182,
+        "title": "The Pianist #4",
+        "year": 1981,
+        "description": "Breve sinopsis de la película \"The Pianist #4\", estrenada en el año 1981. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+182"
+    },
+    {
+        "id": 183,
+        "title": "Avengers: Endgame #4",
+        "year": 1982,
+        "description": "Breve sinopsis de la película \"Avengers: Endgame #4\", estrenada en el año 1982. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+183"
+    },
+    {
+        "id": 184,
+        "title": "Avengers: Infinity War #4",
+        "year": 1983,
+        "description": "Breve sinopsis de la película \"Avengers: Infinity War #4\", estrenada en el año 1983. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+184"
+    },
+    {
+        "id": 185,
+        "title": "Jurassic Park #4",
+        "year": 1984,
+        "description": "Breve sinopsis de la película \"Jurassic Park #4\", estrenada en el año 1984. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+185"
+    },
+    {
+        "id": 186,
+        "title": "The Truman Show #4",
+        "year": 1985,
+        "description": "Breve sinopsis de la película \"The Truman Show #4\", estrenada en el año 1985. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+186"
+    },
+    {
+        "id": 187,
+        "title": "Mad Max: Fury Road #4",
+        "year": 1986,
+        "description": "Breve sinopsis de la película \"Mad Max: Fury Road #4\", estrenada en el año 1986. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+187"
+    },
+    {
+        "id": 188,
+        "title": "Alien #4",
+        "year": 1987,
+        "description": "Breve sinopsis de la película \"Alien #4\", estrenada en el año 1987. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+188"
+    },
+    {
+        "id": 189,
+        "title": "Aliens #4",
+        "year": 1988,
+        "description": "Breve sinopsis de la película \"Aliens #4\", estrenada en el año 1988. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+189"
+    },
+    {
+        "id": 190,
+        "title": "Toy Story #4",
+        "year": 1989,
+        "description": "Breve sinopsis de la película \"Toy Story #4\", estrenada en el año 1989. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+190"
+    },
+    {
+        "id": 191,
+        "title": "Toy Story 3 #4",
+        "year": 1990,
+        "description": "Breve sinopsis de la película \"Toy Story 3 #4\", estrenada en el año 1990. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+191"
+    },
+    {
+        "id": 192,
+        "title": "Coco #4",
+        "year": 1991,
+        "description": "Breve sinopsis de la película \"Coco #4\", estrenada en el año 1991. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+192"
+    },
+    {
+        "id": 193,
+        "title": "Up #4",
+        "year": 1992,
+        "description": "Breve sinopsis de la película \"Up #4\", estrenada en el año 1992. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+193"
+    },
+    {
+        "id": 194,
+        "title": "Inside Out #4",
+        "year": 1993,
+        "description": "Breve sinopsis de la película \"Inside Out #4\", estrenada en el año 1993. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+194"
+    },
+    {
+        "id": 195,
+        "title": "The Social Network #4",
+        "year": 1994,
+        "description": "Breve sinopsis de la película \"The Social Network #4\", estrenada en el año 1994. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+195"
+    },
+    {
+        "id": 196,
+        "title": "No Country for Old Men #4",
+        "year": 1995,
+        "description": "Breve sinopsis de la película \"No Country for Old Men #4\", estrenada en el año 1995. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+196"
+    },
+    {
+        "id": 197,
+        "title": "There Will Be Blood #4",
+        "year": 1996,
+        "description": "Breve sinopsis de la película \"There Will Be Blood #4\", estrenada en el año 1996. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+197"
+    },
+    {
+        "id": 198,
+        "title": "City of God #4",
+        "year": 1997,
+        "description": "Breve sinopsis de la película \"City of God #4\", estrenada en el año 1997. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+198"
+    },
+    {
+        "id": 199,
+        "title": "American Beauty #4",
+        "year": 1998,
+        "description": "Breve sinopsis de la película \"American Beauty #4\", estrenada en el año 1998. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+199"
+    },
+    {
+        "id": 200,
+        "title": "Braveheart #4",
+        "year": 1999,
+        "description": "Breve sinopsis de la película \"Braveheart #4\", estrenada en el año 1999. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+200"
+    },
+    {
+        "id": 201,
+        "title": "The Wolf of Wall Street #4",
+        "year": 2000,
+        "description": "Breve sinopsis de la película \"The Wolf of Wall Street #4\", estrenada en el año 2000. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+201"
+    },
+    {
+        "id": 202,
+        "title": "Inglourious Basterds #4",
+        "year": 2001,
+        "description": "Breve sinopsis de la película \"Inglourious Basterds #4\", estrenada en el año 2001. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+202"
+    },
+    {
+        "id": 203,
+        "title": "Shutter Island #4",
+        "year": 2002,
+        "description": "Breve sinopsis de la película \"Shutter Island #4\", estrenada en el año 2002. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+203"
+    },
+    {
+        "id": 204,
+        "title": "The Usual Suspects #4",
+        "year": 2003,
+        "description": "Breve sinopsis de la película \"The Usual Suspects #4\", estrenada en el año 2003. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+204"
+    },
+    {
+        "id": 205,
+        "title": "The Shawshank Redemption #5",
+        "year": 2004,
+        "description": "Breve sinopsis de la película \"The Shawshank Redemption #5\", estrenada en el año 2004. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+205"
+    },
+    {
+        "id": 206,
+        "title": "The Godfather #5",
+        "year": 2005,
+        "description": "Breve sinopsis de la película \"The Godfather #5\", estrenada en el año 2005. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+206"
+    },
+    {
+        "id": 207,
+        "title": "The Dark Knight #5",
+        "year": 2006,
+        "description": "Breve sinopsis de la película \"The Dark Knight #5\", estrenada en el año 2006. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+207"
+    },
+    {
+        "id": 208,
+        "title": "Pulp Fiction #5",
+        "year": 2007,
+        "description": "Breve sinopsis de la película \"Pulp Fiction #5\", estrenada en el año 2007. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+208"
+    },
+    {
+        "id": 209,
+        "title": "Forrest Gump #5",
+        "year": 2008,
+        "description": "Breve sinopsis de la película \"Forrest Gump #5\", estrenada en el año 2008. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+209"
+    },
+    {
+        "id": 210,
+        "title": "Inception #5",
+        "year": 2009,
+        "description": "Breve sinopsis de la película \"Inception #5\", estrenada en el año 2009. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+210"
+    },
+    {
+        "id": 211,
+        "title": "Fight Club #5",
+        "year": 2010,
+        "description": "Breve sinopsis de la película \"Fight Club #5\", estrenada en el año 2010. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+211"
+    },
+    {
+        "id": 212,
+        "title": "The Matrix #5",
+        "year": 2011,
+        "description": "Breve sinopsis de la película \"The Matrix #5\", estrenada en el año 2011. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+212"
+    },
+    {
+        "id": 213,
+        "title": "Goodfellas #5",
+        "year": 2012,
+        "description": "Breve sinopsis de la película \"Goodfellas #5\", estrenada en el año 2012. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+213"
+    },
+    {
+        "id": 214,
+        "title": "The Lord of the Rings: The Fellowship of the Ring #5",
+        "year": 2013,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Fellowship of the Ring #5\", estrenada en el año 2013. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+214"
+    },
+    {
+        "id": 215,
+        "title": "The Lord of the Rings: The Two Towers #5",
+        "year": 2014,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Two Towers #5\", estrenada en el año 2014. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+215"
+    },
+    {
+        "id": 216,
+        "title": "The Lord of the Rings: The Return of the King #5",
+        "year": 2015,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Return of the King #5\", estrenada en el año 2015. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+216"
+    },
+    {
+        "id": 217,
+        "title": "Interstellar #5",
+        "year": 2016,
+        "description": "Breve sinopsis de la película \"Interstellar #5\", estrenada en el año 2016. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+217"
+    },
+    {
+        "id": 218,
+        "title": "Parasite #5",
+        "year": 2017,
+        "description": "Breve sinopsis de la película \"Parasite #5\", estrenada en el año 2017. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+218"
+    },
+    {
+        "id": 219,
+        "title": "Gladiator #5",
+        "year": 2018,
+        "description": "Breve sinopsis de la película \"Gladiator #5\", estrenada en el año 2018. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+219"
+    },
+    {
+        "id": 220,
+        "title": "Whiplash #5",
+        "year": 2019,
+        "description": "Breve sinopsis de la película \"Whiplash #5\", estrenada en el año 2019. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+220"
+    },
+    {
+        "id": 221,
+        "title": "The Prestige #5",
+        "year": 2020,
+        "description": "Breve sinopsis de la película \"The Prestige #5\", estrenada en el año 2020. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+221"
+    },
+    {
+        "id": 222,
+        "title": "The Green Mile #5",
+        "year": 2021,
+        "description": "Breve sinopsis de la película \"The Green Mile #5\", estrenada en el año 2021. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+222"
+    },
+    {
+        "id": 223,
+        "title": "Se7en #5",
+        "year": 2022,
+        "description": "Breve sinopsis de la película \"Se7en #5\", estrenada en el año 2022. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+223"
+    },
+    {
+        "id": 224,
+        "title": "The Silence of the Lambs #5",
+        "year": 2023,
+        "description": "Breve sinopsis de la película \"The Silence of the Lambs #5\", estrenada en el año 2023. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+224"
+    },
+    {
+        "id": 225,
+        "title": "Saving Private Ryan #5",
+        "year": 2024,
+        "description": "Breve sinopsis de la película \"Saving Private Ryan #5\", estrenada en el año 2024. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+225"
+    },
+    {
+        "id": 226,
+        "title": "Schindler's List #5",
+        "year": 1980,
+        "description": "Breve sinopsis de la película \"Schindler's List #5\", estrenada en el año 1980. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+226"
+    },
+    {
+        "id": 227,
+        "title": "Spirited Away #5",
+        "year": 1981,
+        "description": "Breve sinopsis de la película \"Spirited Away #5\", estrenada en el año 1981. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+227"
+    },
+    {
+        "id": 228,
+        "title": "The Lion King #5",
+        "year": 1982,
+        "description": "Breve sinopsis de la película \"The Lion King #5\", estrenada en el año 1982. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+228"
+    },
+    {
+        "id": 229,
+        "title": "Terminator 2: Judgment Day #5",
+        "year": 1983,
+        "description": "Breve sinopsis de la película \"Terminator 2: Judgment Day #5\", estrenada en el año 1983. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+229"
+    },
+    {
+        "id": 230,
+        "title": "Back to the Future #5",
+        "year": 1984,
+        "description": "Breve sinopsis de la película \"Back to the Future #5\", estrenada en el año 1984. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+230"
+    },
+    {
+        "id": 231,
+        "title": "The Departed #5",
+        "year": 1985,
+        "description": "Breve sinopsis de la película \"The Departed #5\", estrenada en el año 1985. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+231"
+    },
+    {
+        "id": 232,
+        "title": "Django Unchained #5",
+        "year": 1986,
+        "description": "Breve sinopsis de la película \"Django Unchained #5\", estrenada en el año 1986. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+232"
+    },
+    {
+        "id": 233,
+        "title": "The Pianist #5",
+        "year": 1987,
+        "description": "Breve sinopsis de la película \"The Pianist #5\", estrenada en el año 1987. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+233"
+    },
+    {
+        "id": 234,
+        "title": "Avengers: Endgame #5",
+        "year": 1988,
+        "description": "Breve sinopsis de la película \"Avengers: Endgame #5\", estrenada en el año 1988. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+234"
+    },
+    {
+        "id": 235,
+        "title": "Avengers: Infinity War #5",
+        "year": 1989,
+        "description": "Breve sinopsis de la película \"Avengers: Infinity War #5\", estrenada en el año 1989. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+235"
+    },
+    {
+        "id": 236,
+        "title": "Jurassic Park #5",
+        "year": 1990,
+        "description": "Breve sinopsis de la película \"Jurassic Park #5\", estrenada en el año 1990. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+236"
+    },
+    {
+        "id": 237,
+        "title": "The Truman Show #5",
+        "year": 1991,
+        "description": "Breve sinopsis de la película \"The Truman Show #5\", estrenada en el año 1991. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+237"
+    },
+    {
+        "id": 238,
+        "title": "Mad Max: Fury Road #5",
+        "year": 1992,
+        "description": "Breve sinopsis de la película \"Mad Max: Fury Road #5\", estrenada en el año 1992. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+238"
+    },
+    {
+        "id": 239,
+        "title": "Alien #5",
+        "year": 1993,
+        "description": "Breve sinopsis de la película \"Alien #5\", estrenada en el año 1993. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+239"
+    },
+    {
+        "id": 240,
+        "title": "Aliens #5",
+        "year": 1994,
+        "description": "Breve sinopsis de la película \"Aliens #5\", estrenada en el año 1994. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+240"
+    },
+    {
+        "id": 241,
+        "title": "Toy Story #5",
+        "year": 1995,
+        "description": "Breve sinopsis de la película \"Toy Story #5\", estrenada en el año 1995. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+241"
+    },
+    {
+        "id": 242,
+        "title": "Toy Story 3 #5",
+        "year": 1996,
+        "description": "Breve sinopsis de la película \"Toy Story 3 #5\", estrenada en el año 1996. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+242"
+    },
+    {
+        "id": 243,
+        "title": "Coco #5",
+        "year": 1997,
+        "description": "Breve sinopsis de la película \"Coco #5\", estrenada en el año 1997. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+243"
+    },
+    {
+        "id": 244,
+        "title": "Up #5",
+        "year": 1998,
+        "description": "Breve sinopsis de la película \"Up #5\", estrenada en el año 1998. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+244"
+    },
+    {
+        "id": 245,
+        "title": "Inside Out #5",
+        "year": 1999,
+        "description": "Breve sinopsis de la película \"Inside Out #5\", estrenada en el año 1999. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+245"
+    },
+    {
+        "id": 246,
+        "title": "The Social Network #5",
+        "year": 2000,
+        "description": "Breve sinopsis de la película \"The Social Network #5\", estrenada en el año 2000. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+246"
+    },
+    {
+        "id": 247,
+        "title": "No Country for Old Men #5",
+        "year": 2001,
+        "description": "Breve sinopsis de la película \"No Country for Old Men #5\", estrenada en el año 2001. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+247"
+    },
+    {
+        "id": 248,
+        "title": "There Will Be Blood #5",
+        "year": 2002,
+        "description": "Breve sinopsis de la película \"There Will Be Blood #5\", estrenada en el año 2002. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+248"
+    },
+    {
+        "id": 249,
+        "title": "City of God #5",
+        "year": 2003,
+        "description": "Breve sinopsis de la película \"City of God #5\", estrenada en el año 2003. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+249"
+    },
+    {
+        "id": 250,
+        "title": "American Beauty #5",
+        "year": 2004,
+        "description": "Breve sinopsis de la película \"American Beauty #5\", estrenada en el año 2004. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+250"
+    },
+    {
+        "id": 251,
+        "title": "Braveheart #5",
+        "year": 2005,
+        "description": "Breve sinopsis de la película \"Braveheart #5\", estrenada en el año 2005. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+251"
+    },
+    {
+        "id": 252,
+        "title": "The Wolf of Wall Street #5",
+        "year": 2006,
+        "description": "Breve sinopsis de la película \"The Wolf of Wall Street #5\", estrenada en el año 2006. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+252"
+    },
+    {
+        "id": 253,
+        "title": "Inglourious Basterds #5",
+        "year": 2007,
+        "description": "Breve sinopsis de la película \"Inglourious Basterds #5\", estrenada en el año 2007. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+253"
+    },
+    {
+        "id": 254,
+        "title": "Shutter Island #5",
+        "year": 2008,
+        "description": "Breve sinopsis de la película \"Shutter Island #5\", estrenada en el año 2008. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+254"
+    },
+    {
+        "id": 255,
+        "title": "The Usual Suspects #5",
+        "year": 2009,
+        "description": "Breve sinopsis de la película \"The Usual Suspects #5\", estrenada en el año 2009. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+255"
+    },
+    {
+        "id": 256,
+        "title": "The Shawshank Redemption #6",
+        "year": 2010,
+        "description": "Breve sinopsis de la película \"The Shawshank Redemption #6\", estrenada en el año 2010. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+256"
+    },
+    {
+        "id": 257,
+        "title": "The Godfather #6",
+        "year": 2011,
+        "description": "Breve sinopsis de la película \"The Godfather #6\", estrenada en el año 2011. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+257"
+    },
+    {
+        "id": 258,
+        "title": "The Dark Knight #6",
+        "year": 2012,
+        "description": "Breve sinopsis de la película \"The Dark Knight #6\", estrenada en el año 2012. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+258"
+    },
+    {
+        "id": 259,
+        "title": "Pulp Fiction #6",
+        "year": 2013,
+        "description": "Breve sinopsis de la película \"Pulp Fiction #6\", estrenada en el año 2013. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+259"
+    },
+    {
+        "id": 260,
+        "title": "Forrest Gump #6",
+        "year": 2014,
+        "description": "Breve sinopsis de la película \"Forrest Gump #6\", estrenada en el año 2014. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+260"
+    },
+    {
+        "id": 261,
+        "title": "Inception #6",
+        "year": 2015,
+        "description": "Breve sinopsis de la película \"Inception #6\", estrenada en el año 2015. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+261"
+    },
+    {
+        "id": 262,
+        "title": "Fight Club #6",
+        "year": 2016,
+        "description": "Breve sinopsis de la película \"Fight Club #6\", estrenada en el año 2016. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+262"
+    },
+    {
+        "id": 263,
+        "title": "The Matrix #6",
+        "year": 2017,
+        "description": "Breve sinopsis de la película \"The Matrix #6\", estrenada en el año 2017. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+263"
+    },
+    {
+        "id": 264,
+        "title": "Goodfellas #6",
+        "year": 2018,
+        "description": "Breve sinopsis de la película \"Goodfellas #6\", estrenada en el año 2018. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+264"
+    },
+    {
+        "id": 265,
+        "title": "The Lord of the Rings: The Fellowship of the Ring #6",
+        "year": 2019,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Fellowship of the Ring #6\", estrenada en el año 2019. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+265"
+    },
+    {
+        "id": 266,
+        "title": "The Lord of the Rings: The Two Towers #6",
+        "year": 2020,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Two Towers #6\", estrenada en el año 2020. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+266"
+    },
+    {
+        "id": 267,
+        "title": "The Lord of the Rings: The Return of the King #6",
+        "year": 2021,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Return of the King #6\", estrenada en el año 2021. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+267"
+    },
+    {
+        "id": 268,
+        "title": "Interstellar #6",
+        "year": 2022,
+        "description": "Breve sinopsis de la película \"Interstellar #6\", estrenada en el año 2022. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+268"
+    },
+    {
+        "id": 269,
+        "title": "Parasite #6",
+        "year": 2023,
+        "description": "Breve sinopsis de la película \"Parasite #6\", estrenada en el año 2023. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+269"
+    },
+    {
+        "id": 270,
+        "title": "Gladiator #6",
+        "year": 2024,
+        "description": "Breve sinopsis de la película \"Gladiator #6\", estrenada en el año 2024. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+270"
+    },
+    {
+        "id": 271,
+        "title": "Whiplash #6",
+        "year": 1980,
+        "description": "Breve sinopsis de la película \"Whiplash #6\", estrenada en el año 1980. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+271"
+    },
+    {
+        "id": 272,
+        "title": "The Prestige #6",
+        "year": 1981,
+        "description": "Breve sinopsis de la película \"The Prestige #6\", estrenada en el año 1981. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+272"
+    },
+    {
+        "id": 273,
+        "title": "The Green Mile #6",
+        "year": 1982,
+        "description": "Breve sinopsis de la película \"The Green Mile #6\", estrenada en el año 1982. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+273"
+    },
+    {
+        "id": 274,
+        "title": "Se7en #6",
+        "year": 1983,
+        "description": "Breve sinopsis de la película \"Se7en #6\", estrenada en el año 1983. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+274"
+    },
+    {
+        "id": 275,
+        "title": "The Silence of the Lambs #6",
+        "year": 1984,
+        "description": "Breve sinopsis de la película \"The Silence of the Lambs #6\", estrenada en el año 1984. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+275"
+    },
+    {
+        "id": 276,
+        "title": "Saving Private Ryan #6",
+        "year": 1985,
+        "description": "Breve sinopsis de la película \"Saving Private Ryan #6\", estrenada en el año 1985. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+276"
+    },
+    {
+        "id": 277,
+        "title": "Schindler's List #6",
+        "year": 1986,
+        "description": "Breve sinopsis de la película \"Schindler's List #6\", estrenada en el año 1986. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+277"
+    },
+    {
+        "id": 278,
+        "title": "Spirited Away #6",
+        "year": 1987,
+        "description": "Breve sinopsis de la película \"Spirited Away #6\", estrenada en el año 1987. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+278"
+    },
+    {
+        "id": 279,
+        "title": "The Lion King #6",
+        "year": 1988,
+        "description": "Breve sinopsis de la película \"The Lion King #6\", estrenada en el año 1988. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+279"
+    },
+    {
+        "id": 280,
+        "title": "Terminator 2: Judgment Day #6",
+        "year": 1989,
+        "description": "Breve sinopsis de la película \"Terminator 2: Judgment Day #6\", estrenada en el año 1989. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+280"
+    },
+    {
+        "id": 281,
+        "title": "Back to the Future #6",
+        "year": 1990,
+        "description": "Breve sinopsis de la película \"Back to the Future #6\", estrenada en el año 1990. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+281"
+    },
+    {
+        "id": 282,
+        "title": "The Departed #6",
+        "year": 1991,
+        "description": "Breve sinopsis de la película \"The Departed #6\", estrenada en el año 1991. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+282"
+    },
+    {
+        "id": 283,
+        "title": "Django Unchained #6",
+        "year": 1992,
+        "description": "Breve sinopsis de la película \"Django Unchained #6\", estrenada en el año 1992. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+283"
+    },
+    {
+        "id": 284,
+        "title": "The Pianist #6",
+        "year": 1993,
+        "description": "Breve sinopsis de la película \"The Pianist #6\", estrenada en el año 1993. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+284"
+    },
+    {
+        "id": 285,
+        "title": "Avengers: Endgame #6",
+        "year": 1994,
+        "description": "Breve sinopsis de la película \"Avengers: Endgame #6\", estrenada en el año 1994. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+285"
+    },
+    {
+        "id": 286,
+        "title": "Avengers: Infinity War #6",
+        "year": 1995,
+        "description": "Breve sinopsis de la película \"Avengers: Infinity War #6\", estrenada en el año 1995. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+286"
+    },
+    {
+        "id": 287,
+        "title": "Jurassic Park #6",
+        "year": 1996,
+        "description": "Breve sinopsis de la película \"Jurassic Park #6\", estrenada en el año 1996. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+287"
+    },
+    {
+        "id": 288,
+        "title": "The Truman Show #6",
+        "year": 1997,
+        "description": "Breve sinopsis de la película \"The Truman Show #6\", estrenada en el año 1997. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+288"
+    },
+    {
+        "id": 289,
+        "title": "Mad Max: Fury Road #6",
+        "year": 1998,
+        "description": "Breve sinopsis de la película \"Mad Max: Fury Road #6\", estrenada en el año 1998. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+289"
+    },
+    {
+        "id": 290,
+        "title": "Alien #6",
+        "year": 1999,
+        "description": "Breve sinopsis de la película \"Alien #6\", estrenada en el año 1999. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+290"
+    },
+    {
+        "id": 291,
+        "title": "Aliens #6",
+        "year": 2000,
+        "description": "Breve sinopsis de la película \"Aliens #6\", estrenada en el año 2000. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+291"
+    },
+    {
+        "id": 292,
+        "title": "Toy Story #6",
+        "year": 2001,
+        "description": "Breve sinopsis de la película \"Toy Story #6\", estrenada en el año 2001. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+292"
+    },
+    {
+        "id": 293,
+        "title": "Toy Story 3 #6",
+        "year": 2002,
+        "description": "Breve sinopsis de la película \"Toy Story 3 #6\", estrenada en el año 2002. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+293"
+    },
+    {
+        "id": 294,
+        "title": "Coco #6",
+        "year": 2003,
+        "description": "Breve sinopsis de la película \"Coco #6\", estrenada en el año 2003. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+294"
+    },
+    {
+        "id": 295,
+        "title": "Up #6",
+        "year": 2004,
+        "description": "Breve sinopsis de la película \"Up #6\", estrenada en el año 2004. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+295"
+    },
+    {
+        "id": 296,
+        "title": "Inside Out #6",
+        "year": 2005,
+        "description": "Breve sinopsis de la película \"Inside Out #6\", estrenada en el año 2005. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+296"
+    },
+    {
+        "id": 297,
+        "title": "The Social Network #6",
+        "year": 2006,
+        "description": "Breve sinopsis de la película \"The Social Network #6\", estrenada en el año 2006. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+297"
+    },
+    {
+        "id": 298,
+        "title": "No Country for Old Men #6",
+        "year": 2007,
+        "description": "Breve sinopsis de la película \"No Country for Old Men #6\", estrenada en el año 2007. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+298"
+    },
+    {
+        "id": 299,
+        "title": "There Will Be Blood #6",
+        "year": 2008,
+        "description": "Breve sinopsis de la película \"There Will Be Blood #6\", estrenada en el año 2008. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+299"
+    },
+    {
+        "id": 300,
+        "title": "City of God #6",
+        "year": 2009,
+        "description": "Breve sinopsis de la película \"City of God #6\", estrenada en el año 2009. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+300"
+    },
+    {
+        "id": 301,
+        "title": "American Beauty #6",
+        "year": 2010,
+        "description": "Breve sinopsis de la película \"American Beauty #6\", estrenada en el año 2010. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+301"
+    },
+    {
+        "id": 302,
+        "title": "Braveheart #6",
+        "year": 2011,
+        "description": "Breve sinopsis de la película \"Braveheart #6\", estrenada en el año 2011. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+302"
+    },
+    {
+        "id": 303,
+        "title": "The Wolf of Wall Street #6",
+        "year": 2012,
+        "description": "Breve sinopsis de la película \"The Wolf of Wall Street #6\", estrenada en el año 2012. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+303"
+    },
+    {
+        "id": 304,
+        "title": "Inglourious Basterds #6",
+        "year": 2013,
+        "description": "Breve sinopsis de la película \"Inglourious Basterds #6\", estrenada en el año 2013. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+304"
+    },
+    {
+        "id": 305,
+        "title": "Shutter Island #6",
+        "year": 2014,
+        "description": "Breve sinopsis de la película \"Shutter Island #6\", estrenada en el año 2014. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+305"
+    },
+    {
+        "id": 306,
+        "title": "The Usual Suspects #6",
+        "year": 2015,
+        "description": "Breve sinopsis de la película \"The Usual Suspects #6\", estrenada en el año 2015. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+306"
+    },
+    {
+        "id": 307,
+        "title": "The Shawshank Redemption #7",
+        "year": 2016,
+        "description": "Breve sinopsis de la película \"The Shawshank Redemption #7\", estrenada en el año 2016. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+307"
+    },
+    {
+        "id": 308,
+        "title": "The Godfather #7",
+        "year": 2017,
+        "description": "Breve sinopsis de la película \"The Godfather #7\", estrenada en el año 2017. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+308"
+    },
+    {
+        "id": 309,
+        "title": "The Dark Knight #7",
+        "year": 2018,
+        "description": "Breve sinopsis de la película \"The Dark Knight #7\", estrenada en el año 2018. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+309"
+    },
+    {
+        "id": 310,
+        "title": "Pulp Fiction #7",
+        "year": 2019,
+        "description": "Breve sinopsis de la película \"Pulp Fiction #7\", estrenada en el año 2019. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+310"
+    },
+    {
+        "id": 311,
+        "title": "Forrest Gump #7",
+        "year": 2020,
+        "description": "Breve sinopsis de la película \"Forrest Gump #7\", estrenada en el año 2020. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+311"
+    },
+    {
+        "id": 312,
+        "title": "Inception #7",
+        "year": 2021,
+        "description": "Breve sinopsis de la película \"Inception #7\", estrenada en el año 2021. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+312"
+    },
+    {
+        "id": 313,
+        "title": "Fight Club #7",
+        "year": 2022,
+        "description": "Breve sinopsis de la película \"Fight Club #7\", estrenada en el año 2022. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+313"
+    },
+    {
+        "id": 314,
+        "title": "The Matrix #7",
+        "year": 2023,
+        "description": "Breve sinopsis de la película \"The Matrix #7\", estrenada en el año 2023. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+314"
+    },
+    {
+        "id": 315,
+        "title": "Goodfellas #7",
+        "year": 2024,
+        "description": "Breve sinopsis de la película \"Goodfellas #7\", estrenada en el año 2024. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+315"
+    },
+    {
+        "id": 316,
+        "title": "The Lord of the Rings: The Fellowship of the Ring #7",
+        "year": 1980,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Fellowship of the Ring #7\", estrenada en el año 1980. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+316"
+    },
+    {
+        "id": 317,
+        "title": "The Lord of the Rings: The Two Towers #7",
+        "year": 1981,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Two Towers #7\", estrenada en el año 1981. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+317"
+    },
+    {
+        "id": 318,
+        "title": "The Lord of the Rings: The Return of the King #7",
+        "year": 1982,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Return of the King #7\", estrenada en el año 1982. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+318"
+    },
+    {
+        "id": 319,
+        "title": "Interstellar #7",
+        "year": 1983,
+        "description": "Breve sinopsis de la película \"Interstellar #7\", estrenada en el año 1983. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+319"
+    },
+    {
+        "id": 320,
+        "title": "Parasite #7",
+        "year": 1984,
+        "description": "Breve sinopsis de la película \"Parasite #7\", estrenada en el año 1984. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+320"
+    },
+    {
+        "id": 321,
+        "title": "Gladiator #7",
+        "year": 1985,
+        "description": "Breve sinopsis de la película \"Gladiator #7\", estrenada en el año 1985. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+321"
+    },
+    {
+        "id": 322,
+        "title": "Whiplash #7",
+        "year": 1986,
+        "description": "Breve sinopsis de la película \"Whiplash #7\", estrenada en el año 1986. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+322"
+    },
+    {
+        "id": 323,
+        "title": "The Prestige #7",
+        "year": 1987,
+        "description": "Breve sinopsis de la película \"The Prestige #7\", estrenada en el año 1987. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+323"
+    },
+    {
+        "id": 324,
+        "title": "The Green Mile #7",
+        "year": 1988,
+        "description": "Breve sinopsis de la película \"The Green Mile #7\", estrenada en el año 1988. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+324"
+    },
+    {
+        "id": 325,
+        "title": "Se7en #7",
+        "year": 1989,
+        "description": "Breve sinopsis de la película \"Se7en #7\", estrenada en el año 1989. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+325"
+    },
+    {
+        "id": 326,
+        "title": "The Silence of the Lambs #7",
+        "year": 1990,
+        "description": "Breve sinopsis de la película \"The Silence of the Lambs #7\", estrenada en el año 1990. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+326"
+    },
+    {
+        "id": 327,
+        "title": "Saving Private Ryan #7",
+        "year": 1991,
+        "description": "Breve sinopsis de la película \"Saving Private Ryan #7\", estrenada en el año 1991. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+327"
+    },
+    {
+        "id": 328,
+        "title": "Schindler's List #7",
+        "year": 1992,
+        "description": "Breve sinopsis de la película \"Schindler's List #7\", estrenada en el año 1992. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+328"
+    },
+    {
+        "id": 329,
+        "title": "Spirited Away #7",
+        "year": 1993,
+        "description": "Breve sinopsis de la película \"Spirited Away #7\", estrenada en el año 1993. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+329"
+    },
+    {
+        "id": 330,
+        "title": "The Lion King #7",
+        "year": 1994,
+        "description": "Breve sinopsis de la película \"The Lion King #7\", estrenada en el año 1994. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+330"
+    },
+    {
+        "id": 331,
+        "title": "Terminator 2: Judgment Day #7",
+        "year": 1995,
+        "description": "Breve sinopsis de la película \"Terminator 2: Judgment Day #7\", estrenada en el año 1995. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+331"
+    },
+    {
+        "id": 332,
+        "title": "Back to the Future #7",
+        "year": 1996,
+        "description": "Breve sinopsis de la película \"Back to the Future #7\", estrenada en el año 1996. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+332"
+    },
+    {
+        "id": 333,
+        "title": "The Departed #7",
+        "year": 1997,
+        "description": "Breve sinopsis de la película \"The Departed #7\", estrenada en el año 1997. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+333"
+    },
+    {
+        "id": 334,
+        "title": "Django Unchained #7",
+        "year": 1998,
+        "description": "Breve sinopsis de la película \"Django Unchained #7\", estrenada en el año 1998. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+334"
+    },
+    {
+        "id": 335,
+        "title": "The Pianist #7",
+        "year": 1999,
+        "description": "Breve sinopsis de la película \"The Pianist #7\", estrenada en el año 1999. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+335"
+    },
+    {
+        "id": 336,
+        "title": "Avengers: Endgame #7",
+        "year": 2000,
+        "description": "Breve sinopsis de la película \"Avengers: Endgame #7\", estrenada en el año 2000. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+336"
+    },
+    {
+        "id": 337,
+        "title": "Avengers: Infinity War #7",
+        "year": 2001,
+        "description": "Breve sinopsis de la película \"Avengers: Infinity War #7\", estrenada en el año 2001. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+337"
+    },
+    {
+        "id": 338,
+        "title": "Jurassic Park #7",
+        "year": 2002,
+        "description": "Breve sinopsis de la película \"Jurassic Park #7\", estrenada en el año 2002. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+338"
+    },
+    {
+        "id": 339,
+        "title": "The Truman Show #7",
+        "year": 2003,
+        "description": "Breve sinopsis de la película \"The Truman Show #7\", estrenada en el año 2003. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+339"
+    },
+    {
+        "id": 340,
+        "title": "Mad Max: Fury Road #7",
+        "year": 2004,
+        "description": "Breve sinopsis de la película \"Mad Max: Fury Road #7\", estrenada en el año 2004. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+340"
+    },
+    {
+        "id": 341,
+        "title": "Alien #7",
+        "year": 2005,
+        "description": "Breve sinopsis de la película \"Alien #7\", estrenada en el año 2005. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+341"
+    },
+    {
+        "id": 342,
+        "title": "Aliens #7",
+        "year": 2006,
+        "description": "Breve sinopsis de la película \"Aliens #7\", estrenada en el año 2006. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+342"
+    },
+    {
+        "id": 343,
+        "title": "Toy Story #7",
+        "year": 2007,
+        "description": "Breve sinopsis de la película \"Toy Story #7\", estrenada en el año 2007. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+343"
+    },
+    {
+        "id": 344,
+        "title": "Toy Story 3 #7",
+        "year": 2008,
+        "description": "Breve sinopsis de la película \"Toy Story 3 #7\", estrenada en el año 2008. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+344"
+    },
+    {
+        "id": 345,
+        "title": "Coco #7",
+        "year": 2009,
+        "description": "Breve sinopsis de la película \"Coco #7\", estrenada en el año 2009. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+345"
+    },
+    {
+        "id": 346,
+        "title": "Up #7",
+        "year": 2010,
+        "description": "Breve sinopsis de la película \"Up #7\", estrenada en el año 2010. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+346"
+    },
+    {
+        "id": 347,
+        "title": "Inside Out #7",
+        "year": 2011,
+        "description": "Breve sinopsis de la película \"Inside Out #7\", estrenada en el año 2011. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+347"
+    },
+    {
+        "id": 348,
+        "title": "The Social Network #7",
+        "year": 2012,
+        "description": "Breve sinopsis de la película \"The Social Network #7\", estrenada en el año 2012. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+348"
+    },
+    {
+        "id": 349,
+        "title": "No Country for Old Men #7",
+        "year": 2013,
+        "description": "Breve sinopsis de la película \"No Country for Old Men #7\", estrenada en el año 2013. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+349"
+    },
+    {
+        "id": 350,
+        "title": "There Will Be Blood #7",
+        "year": 2014,
+        "description": "Breve sinopsis de la película \"There Will Be Blood #7\", estrenada en el año 2014. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+350"
+    },
+    {
+        "id": 351,
+        "title": "City of God #7",
+        "year": 2015,
+        "description": "Breve sinopsis de la película \"City of God #7\", estrenada en el año 2015. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+351"
+    },
+    {
+        "id": 352,
+        "title": "American Beauty #7",
+        "year": 2016,
+        "description": "Breve sinopsis de la película \"American Beauty #7\", estrenada en el año 2016. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+352"
+    },
+    {
+        "id": 353,
+        "title": "Braveheart #7",
+        "year": 2017,
+        "description": "Breve sinopsis de la película \"Braveheart #7\", estrenada en el año 2017. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+353"
+    },
+    {
+        "id": 354,
+        "title": "The Wolf of Wall Street #7",
+        "year": 2018,
+        "description": "Breve sinopsis de la película \"The Wolf of Wall Street #7\", estrenada en el año 2018. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+354"
+    },
+    {
+        "id": 355,
+        "title": "Inglourious Basterds #7",
+        "year": 2019,
+        "description": "Breve sinopsis de la película \"Inglourious Basterds #7\", estrenada en el año 2019. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+355"
+    },
+    {
+        "id": 356,
+        "title": "Shutter Island #7",
+        "year": 2020,
+        "description": "Breve sinopsis de la película \"Shutter Island #7\", estrenada en el año 2020. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+356"
+    },
+    {
+        "id": 357,
+        "title": "The Usual Suspects #7",
+        "year": 2021,
+        "description": "Breve sinopsis de la película \"The Usual Suspects #7\", estrenada en el año 2021. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+357"
+    },
+    {
+        "id": 358,
+        "title": "The Shawshank Redemption #8",
+        "year": 2022,
+        "description": "Breve sinopsis de la película \"The Shawshank Redemption #8\", estrenada en el año 2022. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+358"
+    },
+    {
+        "id": 359,
+        "title": "The Godfather #8",
+        "year": 2023,
+        "description": "Breve sinopsis de la película \"The Godfather #8\", estrenada en el año 2023. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+359"
+    },
+    {
+        "id": 360,
+        "title": "The Dark Knight #8",
+        "year": 2024,
+        "description": "Breve sinopsis de la película \"The Dark Knight #8\", estrenada en el año 2024. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+360"
+    },
+    {
+        "id": 361,
+        "title": "Pulp Fiction #8",
+        "year": 1980,
+        "description": "Breve sinopsis de la película \"Pulp Fiction #8\", estrenada en el año 1980. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+361"
+    },
+    {
+        "id": 362,
+        "title": "Forrest Gump #8",
+        "year": 1981,
+        "description": "Breve sinopsis de la película \"Forrest Gump #8\", estrenada en el año 1981. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+362"
+    },
+    {
+        "id": 363,
+        "title": "Inception #8",
+        "year": 1982,
+        "description": "Breve sinopsis de la película \"Inception #8\", estrenada en el año 1982. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+363"
+    },
+    {
+        "id": 364,
+        "title": "Fight Club #8",
+        "year": 1983,
+        "description": "Breve sinopsis de la película \"Fight Club #8\", estrenada en el año 1983. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+364"
+    },
+    {
+        "id": 365,
+        "title": "The Matrix #8",
+        "year": 1984,
+        "description": "Breve sinopsis de la película \"The Matrix #8\", estrenada en el año 1984. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+365"
+    },
+    {
+        "id": 366,
+        "title": "Goodfellas #8",
+        "year": 1985,
+        "description": "Breve sinopsis de la película \"Goodfellas #8\", estrenada en el año 1985. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+366"
+    },
+    {
+        "id": 367,
+        "title": "The Lord of the Rings: The Fellowship of the Ring #8",
+        "year": 1986,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Fellowship of the Ring #8\", estrenada en el año 1986. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+367"
+    },
+    {
+        "id": 368,
+        "title": "The Lord of the Rings: The Two Towers #8",
+        "year": 1987,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Two Towers #8\", estrenada en el año 1987. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+368"
+    },
+    {
+        "id": 369,
+        "title": "The Lord of the Rings: The Return of the King #8",
+        "year": 1988,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Return of the King #8\", estrenada en el año 1988. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+369"
+    },
+    {
+        "id": 370,
+        "title": "Interstellar #8",
+        "year": 1989,
+        "description": "Breve sinopsis de la película \"Interstellar #8\", estrenada en el año 1989. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+370"
+    },
+    {
+        "id": 371,
+        "title": "Parasite #8",
+        "year": 1990,
+        "description": "Breve sinopsis de la película \"Parasite #8\", estrenada en el año 1990. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+371"
+    },
+    {
+        "id": 372,
+        "title": "Gladiator #8",
+        "year": 1991,
+        "description": "Breve sinopsis de la película \"Gladiator #8\", estrenada en el año 1991. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+372"
+    },
+    {
+        "id": 373,
+        "title": "Whiplash #8",
+        "year": 1992,
+        "description": "Breve sinopsis de la película \"Whiplash #8\", estrenada en el año 1992. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+373"
+    },
+    {
+        "id": 374,
+        "title": "The Prestige #8",
+        "year": 1993,
+        "description": "Breve sinopsis de la película \"The Prestige #8\", estrenada en el año 1993. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+374"
+    },
+    {
+        "id": 375,
+        "title": "The Green Mile #8",
+        "year": 1994,
+        "description": "Breve sinopsis de la película \"The Green Mile #8\", estrenada en el año 1994. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+375"
+    },
+    {
+        "id": 376,
+        "title": "Se7en #8",
+        "year": 1995,
+        "description": "Breve sinopsis de la película \"Se7en #8\", estrenada en el año 1995. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+376"
+    },
+    {
+        "id": 377,
+        "title": "The Silence of the Lambs #8",
+        "year": 1996,
+        "description": "Breve sinopsis de la película \"The Silence of the Lambs #8\", estrenada en el año 1996. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+377"
+    },
+    {
+        "id": 378,
+        "title": "Saving Private Ryan #8",
+        "year": 1997,
+        "description": "Breve sinopsis de la película \"Saving Private Ryan #8\", estrenada en el año 1997. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+378"
+    },
+    {
+        "id": 379,
+        "title": "Schindler's List #8",
+        "year": 1998,
+        "description": "Breve sinopsis de la película \"Schindler's List #8\", estrenada en el año 1998. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+379"
+    },
+    {
+        "id": 380,
+        "title": "Spirited Away #8",
+        "year": 1999,
+        "description": "Breve sinopsis de la película \"Spirited Away #8\", estrenada en el año 1999. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+380"
+    },
+    {
+        "id": 381,
+        "title": "The Lion King #8",
+        "year": 2000,
+        "description": "Breve sinopsis de la película \"The Lion King #8\", estrenada en el año 2000. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+381"
+    },
+    {
+        "id": 382,
+        "title": "Terminator 2: Judgment Day #8",
+        "year": 2001,
+        "description": "Breve sinopsis de la película \"Terminator 2: Judgment Day #8\", estrenada en el año 2001. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+382"
+    },
+    {
+        "id": 383,
+        "title": "Back to the Future #8",
+        "year": 2002,
+        "description": "Breve sinopsis de la película \"Back to the Future #8\", estrenada en el año 2002. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+383"
+    },
+    {
+        "id": 384,
+        "title": "The Departed #8",
+        "year": 2003,
+        "description": "Breve sinopsis de la película \"The Departed #8\", estrenada en el año 2003. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+384"
+    },
+    {
+        "id": 385,
+        "title": "Django Unchained #8",
+        "year": 2004,
+        "description": "Breve sinopsis de la película \"Django Unchained #8\", estrenada en el año 2004. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+385"
+    },
+    {
+        "id": 386,
+        "title": "The Pianist #8",
+        "year": 2005,
+        "description": "Breve sinopsis de la película \"The Pianist #8\", estrenada en el año 2005. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+386"
+    },
+    {
+        "id": 387,
+        "title": "Avengers: Endgame #8",
+        "year": 2006,
+        "description": "Breve sinopsis de la película \"Avengers: Endgame #8\", estrenada en el año 2006. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+387"
+    },
+    {
+        "id": 388,
+        "title": "Avengers: Infinity War #8",
+        "year": 2007,
+        "description": "Breve sinopsis de la película \"Avengers: Infinity War #8\", estrenada en el año 2007. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+388"
+    },
+    {
+        "id": 389,
+        "title": "Jurassic Park #8",
+        "year": 2008,
+        "description": "Breve sinopsis de la película \"Jurassic Park #8\", estrenada en el año 2008. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+389"
+    },
+    {
+        "id": 390,
+        "title": "The Truman Show #8",
+        "year": 2009,
+        "description": "Breve sinopsis de la película \"The Truman Show #8\", estrenada en el año 2009. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+390"
+    },
+    {
+        "id": 391,
+        "title": "Mad Max: Fury Road #8",
+        "year": 2010,
+        "description": "Breve sinopsis de la película \"Mad Max: Fury Road #8\", estrenada en el año 2010. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+391"
+    },
+    {
+        "id": 392,
+        "title": "Alien #8",
+        "year": 2011,
+        "description": "Breve sinopsis de la película \"Alien #8\", estrenada en el año 2011. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+392"
+    },
+    {
+        "id": 393,
+        "title": "Aliens #8",
+        "year": 2012,
+        "description": "Breve sinopsis de la película \"Aliens #8\", estrenada en el año 2012. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+393"
+    },
+    {
+        "id": 394,
+        "title": "Toy Story #8",
+        "year": 2013,
+        "description": "Breve sinopsis de la película \"Toy Story #8\", estrenada en el año 2013. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+394"
+    },
+    {
+        "id": 395,
+        "title": "Toy Story 3 #8",
+        "year": 2014,
+        "description": "Breve sinopsis de la película \"Toy Story 3 #8\", estrenada en el año 2014. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+395"
+    },
+    {
+        "id": 396,
+        "title": "Coco #8",
+        "year": 2015,
+        "description": "Breve sinopsis de la película \"Coco #8\", estrenada en el año 2015. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+396"
+    },
+    {
+        "id": 397,
+        "title": "Up #8",
+        "year": 2016,
+        "description": "Breve sinopsis de la película \"Up #8\", estrenada en el año 2016. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+397"
+    },
+    {
+        "id": 398,
+        "title": "Inside Out #8",
+        "year": 2017,
+        "description": "Breve sinopsis de la película \"Inside Out #8\", estrenada en el año 2017. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+398"
+    },
+    {
+        "id": 399,
+        "title": "The Social Network #8",
+        "year": 2018,
+        "description": "Breve sinopsis de la película \"The Social Network #8\", estrenada en el año 2018. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+399"
+    },
+    {
+        "id": 400,
+        "title": "No Country for Old Men #8",
+        "year": 2019,
+        "description": "Breve sinopsis de la película \"No Country for Old Men #8\", estrenada en el año 2019. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+400"
+    },
+    {
+        "id": 401,
+        "title": "There Will Be Blood #8",
+        "year": 2020,
+        "description": "Breve sinopsis de la película \"There Will Be Blood #8\", estrenada en el año 2020. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+401"
+    },
+    {
+        "id": 402,
+        "title": "City of God #8",
+        "year": 2021,
+        "description": "Breve sinopsis de la película \"City of God #8\", estrenada en el año 2021. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+402"
+    },
+    {
+        "id": 403,
+        "title": "American Beauty #8",
+        "year": 2022,
+        "description": "Breve sinopsis de la película \"American Beauty #8\", estrenada en el año 2022. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+403"
+    },
+    {
+        "id": 404,
+        "title": "Braveheart #8",
+        "year": 2023,
+        "description": "Breve sinopsis de la película \"Braveheart #8\", estrenada en el año 2023. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+404"
+    },
+    {
+        "id": 405,
+        "title": "The Wolf of Wall Street #8",
+        "year": 2024,
+        "description": "Breve sinopsis de la película \"The Wolf of Wall Street #8\", estrenada en el año 2024. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+405"
+    },
+    {
+        "id": 406,
+        "title": "Inglourious Basterds #8",
+        "year": 1980,
+        "description": "Breve sinopsis de la película \"Inglourious Basterds #8\", estrenada en el año 1980. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+406"
+    },
+    {
+        "id": 407,
+        "title": "Shutter Island #8",
+        "year": 1981,
+        "description": "Breve sinopsis de la película \"Shutter Island #8\", estrenada en el año 1981. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+407"
+    },
+    {
+        "id": 408,
+        "title": "The Usual Suspects #8",
+        "year": 1982,
+        "description": "Breve sinopsis de la película \"The Usual Suspects #8\", estrenada en el año 1982. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+408"
+    },
+    {
+        "id": 409,
+        "title": "The Shawshank Redemption #9",
+        "year": 1983,
+        "description": "Breve sinopsis de la película \"The Shawshank Redemption #9\", estrenada en el año 1983. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+409"
+    },
+    {
+        "id": 410,
+        "title": "The Godfather #9",
+        "year": 1984,
+        "description": "Breve sinopsis de la película \"The Godfather #9\", estrenada en el año 1984. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+410"
+    },
+    {
+        "id": 411,
+        "title": "The Dark Knight #9",
+        "year": 1985,
+        "description": "Breve sinopsis de la película \"The Dark Knight #9\", estrenada en el año 1985. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+411"
+    },
+    {
+        "id": 412,
+        "title": "Pulp Fiction #9",
+        "year": 1986,
+        "description": "Breve sinopsis de la película \"Pulp Fiction #9\", estrenada en el año 1986. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+412"
+    },
+    {
+        "id": 413,
+        "title": "Forrest Gump #9",
+        "year": 1987,
+        "description": "Breve sinopsis de la película \"Forrest Gump #9\", estrenada en el año 1987. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+413"
+    },
+    {
+        "id": 414,
+        "title": "Inception #9",
+        "year": 1988,
+        "description": "Breve sinopsis de la película \"Inception #9\", estrenada en el año 1988. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+414"
+    },
+    {
+        "id": 415,
+        "title": "Fight Club #9",
+        "year": 1989,
+        "description": "Breve sinopsis de la película \"Fight Club #9\", estrenada en el año 1989. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+415"
+    },
+    {
+        "id": 416,
+        "title": "The Matrix #9",
+        "year": 1990,
+        "description": "Breve sinopsis de la película \"The Matrix #9\", estrenada en el año 1990. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+416"
+    },
+    {
+        "id": 417,
+        "title": "Goodfellas #9",
+        "year": 1991,
+        "description": "Breve sinopsis de la película \"Goodfellas #9\", estrenada en el año 1991. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+417"
+    },
+    {
+        "id": 418,
+        "title": "The Lord of the Rings: The Fellowship of the Ring #9",
+        "year": 1992,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Fellowship of the Ring #9\", estrenada en el año 1992. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+418"
+    },
+    {
+        "id": 419,
+        "title": "The Lord of the Rings: The Two Towers #9",
+        "year": 1993,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Two Towers #9\", estrenada en el año 1993. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+419"
+    },
+    {
+        "id": 420,
+        "title": "The Lord of the Rings: The Return of the King #9",
+        "year": 1994,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Return of the King #9\", estrenada en el año 1994. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+420"
+    },
+    {
+        "id": 421,
+        "title": "Interstellar #9",
+        "year": 1995,
+        "description": "Breve sinopsis de la película \"Interstellar #9\", estrenada en el año 1995. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+421"
+    },
+    {
+        "id": 422,
+        "title": "Parasite #9",
+        "year": 1996,
+        "description": "Breve sinopsis de la película \"Parasite #9\", estrenada en el año 1996. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+422"
+    },
+    {
+        "id": 423,
+        "title": "Gladiator #9",
+        "year": 1997,
+        "description": "Breve sinopsis de la película \"Gladiator #9\", estrenada en el año 1997. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+423"
+    },
+    {
+        "id": 424,
+        "title": "Whiplash #9",
+        "year": 1998,
+        "description": "Breve sinopsis de la película \"Whiplash #9\", estrenada en el año 1998. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+424"
+    },
+    {
+        "id": 425,
+        "title": "The Prestige #9",
+        "year": 1999,
+        "description": "Breve sinopsis de la película \"The Prestige #9\", estrenada en el año 1999. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+425"
+    },
+    {
+        "id": 426,
+        "title": "The Green Mile #9",
+        "year": 2000,
+        "description": "Breve sinopsis de la película \"The Green Mile #9\", estrenada en el año 2000. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+426"
+    },
+    {
+        "id": 427,
+        "title": "Se7en #9",
+        "year": 2001,
+        "description": "Breve sinopsis de la película \"Se7en #9\", estrenada en el año 2001. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+427"
+    },
+    {
+        "id": 428,
+        "title": "The Silence of the Lambs #9",
+        "year": 2002,
+        "description": "Breve sinopsis de la película \"The Silence of the Lambs #9\", estrenada en el año 2002. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+428"
+    },
+    {
+        "id": 429,
+        "title": "Saving Private Ryan #9",
+        "year": 2003,
+        "description": "Breve sinopsis de la película \"Saving Private Ryan #9\", estrenada en el año 2003. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+429"
+    },
+    {
+        "id": 430,
+        "title": "Schindler's List #9",
+        "year": 2004,
+        "description": "Breve sinopsis de la película \"Schindler's List #9\", estrenada en el año 2004. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+430"
+    },
+    {
+        "id": 431,
+        "title": "Spirited Away #9",
+        "year": 2005,
+        "description": "Breve sinopsis de la película \"Spirited Away #9\", estrenada en el año 2005. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+431"
+    },
+    {
+        "id": 432,
+        "title": "The Lion King #9",
+        "year": 2006,
+        "description": "Breve sinopsis de la película \"The Lion King #9\", estrenada en el año 2006. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+432"
+    },
+    {
+        "id": 433,
+        "title": "Terminator 2: Judgment Day #9",
+        "year": 2007,
+        "description": "Breve sinopsis de la película \"Terminator 2: Judgment Day #9\", estrenada en el año 2007. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+433"
+    },
+    {
+        "id": 434,
+        "title": "Back to the Future #9",
+        "year": 2008,
+        "description": "Breve sinopsis de la película \"Back to the Future #9\", estrenada en el año 2008. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+434"
+    },
+    {
+        "id": 435,
+        "title": "The Departed #9",
+        "year": 2009,
+        "description": "Breve sinopsis de la película \"The Departed #9\", estrenada en el año 2009. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+435"
+    },
+    {
+        "id": 436,
+        "title": "Django Unchained #9",
+        "year": 2010,
+        "description": "Breve sinopsis de la película \"Django Unchained #9\", estrenada en el año 2010. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+436"
+    },
+    {
+        "id": 437,
+        "title": "The Pianist #9",
+        "year": 2011,
+        "description": "Breve sinopsis de la película \"The Pianist #9\", estrenada en el año 2011. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+437"
+    },
+    {
+        "id": 438,
+        "title": "Avengers: Endgame #9",
+        "year": 2012,
+        "description": "Breve sinopsis de la película \"Avengers: Endgame #9\", estrenada en el año 2012. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+438"
+    },
+    {
+        "id": 439,
+        "title": "Avengers: Infinity War #9",
+        "year": 2013,
+        "description": "Breve sinopsis de la película \"Avengers: Infinity War #9\", estrenada en el año 2013. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+439"
+    },
+    {
+        "id": 440,
+        "title": "Jurassic Park #9",
+        "year": 2014,
+        "description": "Breve sinopsis de la película \"Jurassic Park #9\", estrenada en el año 2014. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+440"
+    },
+    {
+        "id": 441,
+        "title": "The Truman Show #9",
+        "year": 2015,
+        "description": "Breve sinopsis de la película \"The Truman Show #9\", estrenada en el año 2015. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+441"
+    },
+    {
+        "id": 442,
+        "title": "Mad Max: Fury Road #9",
+        "year": 2016,
+        "description": "Breve sinopsis de la película \"Mad Max: Fury Road #9\", estrenada en el año 2016. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+442"
+    },
+    {
+        "id": 443,
+        "title": "Alien #9",
+        "year": 2017,
+        "description": "Breve sinopsis de la película \"Alien #9\", estrenada en el año 2017. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+443"
+    },
+    {
+        "id": 444,
+        "title": "Aliens #9",
+        "year": 2018,
+        "description": "Breve sinopsis de la película \"Aliens #9\", estrenada en el año 2018. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+444"
+    },
+    {
+        "id": 445,
+        "title": "Toy Story #9",
+        "year": 2019,
+        "description": "Breve sinopsis de la película \"Toy Story #9\", estrenada en el año 2019. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+445"
+    },
+    {
+        "id": 446,
+        "title": "Toy Story 3 #9",
+        "year": 2020,
+        "description": "Breve sinopsis de la película \"Toy Story 3 #9\", estrenada en el año 2020. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+446"
+    },
+    {
+        "id": 447,
+        "title": "Coco #9",
+        "year": 2021,
+        "description": "Breve sinopsis de la película \"Coco #9\", estrenada en el año 2021. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+447"
+    },
+    {
+        "id": 448,
+        "title": "Up #9",
+        "year": 2022,
+        "description": "Breve sinopsis de la película \"Up #9\", estrenada en el año 2022. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+448"
+    },
+    {
+        "id": 449,
+        "title": "Inside Out #9",
+        "year": 2023,
+        "description": "Breve sinopsis de la película \"Inside Out #9\", estrenada en el año 2023. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+449"
+    },
+    {
+        "id": 450,
+        "title": "The Social Network #9",
+        "year": 2024,
+        "description": "Breve sinopsis de la película \"The Social Network #9\", estrenada en el año 2024. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+450"
+    },
+    {
+        "id": 451,
+        "title": "No Country for Old Men #9",
+        "year": 1980,
+        "description": "Breve sinopsis de la película \"No Country for Old Men #9\", estrenada en el año 1980. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+451"
+    },
+    {
+        "id": 452,
+        "title": "There Will Be Blood #9",
+        "year": 1981,
+        "description": "Breve sinopsis de la película \"There Will Be Blood #9\", estrenada en el año 1981. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+452"
+    },
+    {
+        "id": 453,
+        "title": "City of God #9",
+        "year": 1982,
+        "description": "Breve sinopsis de la película \"City of God #9\", estrenada en el año 1982. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+453"
+    },
+    {
+        "id": 454,
+        "title": "American Beauty #9",
+        "year": 1983,
+        "description": "Breve sinopsis de la película \"American Beauty #9\", estrenada en el año 1983. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+454"
+    },
+    {
+        "id": 455,
+        "title": "Braveheart #9",
+        "year": 1984,
+        "description": "Breve sinopsis de la película \"Braveheart #9\", estrenada en el año 1984. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+455"
+    },
+    {
+        "id": 456,
+        "title": "The Wolf of Wall Street #9",
+        "year": 1985,
+        "description": "Breve sinopsis de la película \"The Wolf of Wall Street #9\", estrenada en el año 1985. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+456"
+    },
+    {
+        "id": 457,
+        "title": "Inglourious Basterds #9",
+        "year": 1986,
+        "description": "Breve sinopsis de la película \"Inglourious Basterds #9\", estrenada en el año 1986. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+457"
+    },
+    {
+        "id": 458,
+        "title": "Shutter Island #9",
+        "year": 1987,
+        "description": "Breve sinopsis de la película \"Shutter Island #9\", estrenada en el año 1987. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+458"
+    },
+    {
+        "id": 459,
+        "title": "The Usual Suspects #9",
+        "year": 1988,
+        "description": "Breve sinopsis de la película \"The Usual Suspects #9\", estrenada en el año 1988. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+459"
+    },
+    {
+        "id": 460,
+        "title": "The Shawshank Redemption #10",
+        "year": 1989,
+        "description": "Breve sinopsis de la película \"The Shawshank Redemption #10\", estrenada en el año 1989. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+460"
+    },
+    {
+        "id": 461,
+        "title": "The Godfather #10",
+        "year": 1990,
+        "description": "Breve sinopsis de la película \"The Godfather #10\", estrenada en el año 1990. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+461"
+    },
+    {
+        "id": 462,
+        "title": "The Dark Knight #10",
+        "year": 1991,
+        "description": "Breve sinopsis de la película \"The Dark Knight #10\", estrenada en el año 1991. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+462"
+    },
+    {
+        "id": 463,
+        "title": "Pulp Fiction #10",
+        "year": 1992,
+        "description": "Breve sinopsis de la película \"Pulp Fiction #10\", estrenada en el año 1992. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+463"
+    },
+    {
+        "id": 464,
+        "title": "Forrest Gump #10",
+        "year": 1993,
+        "description": "Breve sinopsis de la película \"Forrest Gump #10\", estrenada en el año 1993. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+464"
+    },
+    {
+        "id": 465,
+        "title": "Inception #10",
+        "year": 1994,
+        "description": "Breve sinopsis de la película \"Inception #10\", estrenada en el año 1994. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+465"
+    },
+    {
+        "id": 466,
+        "title": "Fight Club #10",
+        "year": 1995,
+        "description": "Breve sinopsis de la película \"Fight Club #10\", estrenada en el año 1995. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+466"
+    },
+    {
+        "id": 467,
+        "title": "The Matrix #10",
+        "year": 1996,
+        "description": "Breve sinopsis de la película \"The Matrix #10\", estrenada en el año 1996. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+467"
+    },
+    {
+        "id": 468,
+        "title": "Goodfellas #10",
+        "year": 1997,
+        "description": "Breve sinopsis de la película \"Goodfellas #10\", estrenada en el año 1997. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+468"
+    },
+    {
+        "id": 469,
+        "title": "The Lord of the Rings: The Fellowship of the Ring #10",
+        "year": 1998,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Fellowship of the Ring #10\", estrenada en el año 1998. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+469"
+    },
+    {
+        "id": 470,
+        "title": "The Lord of the Rings: The Two Towers #10",
+        "year": 1999,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Two Towers #10\", estrenada en el año 1999. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+470"
+    },
+    {
+        "id": 471,
+        "title": "The Lord of the Rings: The Return of the King #10",
+        "year": 2000,
+        "description": "Breve sinopsis de la película \"The Lord of the Rings: The Return of the King #10\", estrenada en el año 2000. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+471"
+    },
+    {
+        "id": 472,
+        "title": "Interstellar #10",
+        "year": 2001,
+        "description": "Breve sinopsis de la película \"Interstellar #10\", estrenada en el año 2001. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+472"
+    },
+    {
+        "id": 473,
+        "title": "Parasite #10",
+        "year": 2002,
+        "description": "Breve sinopsis de la película \"Parasite #10\", estrenada en el año 2002. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+473"
+    },
+    {
+        "id": 474,
+        "title": "Gladiator #10",
+        "year": 2003,
+        "description": "Breve sinopsis de la película \"Gladiator #10\", estrenada en el año 2003. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+474"
+    },
+    {
+        "id": 475,
+        "title": "Whiplash #10",
+        "year": 2004,
+        "description": "Breve sinopsis de la película \"Whiplash #10\", estrenada en el año 2004. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+475"
+    },
+    {
+        "id": 476,
+        "title": "The Prestige #10",
+        "year": 2005,
+        "description": "Breve sinopsis de la película \"The Prestige #10\", estrenada en el año 2005. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+476"
+    },
+    {
+        "id": 477,
+        "title": "The Green Mile #10",
+        "year": 2006,
+        "description": "Breve sinopsis de la película \"The Green Mile #10\", estrenada en el año 2006. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+477"
+    },
+    {
+        "id": 478,
+        "title": "Se7en #10",
+        "year": 2007,
+        "description": "Breve sinopsis de la película \"Se7en #10\", estrenada en el año 2007. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+478"
+    },
+    {
+        "id": 479,
+        "title": "The Silence of the Lambs #10",
+        "year": 2008,
+        "description": "Breve sinopsis de la película \"The Silence of the Lambs #10\", estrenada en el año 2008. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+479"
+    },
+    {
+        "id": 480,
+        "title": "Saving Private Ryan #10",
+        "year": 2009,
+        "description": "Breve sinopsis de la película \"Saving Private Ryan #10\", estrenada en el año 2009. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+480"
+    },
+    {
+        "id": 481,
+        "title": "Schindler's List #10",
+        "year": 2010,
+        "description": "Breve sinopsis de la película \"Schindler's List #10\", estrenada en el año 2010. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+481"
+    },
+    {
+        "id": 482,
+        "title": "Spirited Away #10",
+        "year": 2011,
+        "description": "Breve sinopsis de la película \"Spirited Away #10\", estrenada en el año 2011. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+482"
+    },
+    {
+        "id": 483,
+        "title": "The Lion King #10",
+        "year": 2012,
+        "description": "Breve sinopsis de la película \"The Lion King #10\", estrenada en el año 2012. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+483"
+    },
+    {
+        "id": 484,
+        "title": "Terminator 2: Judgment Day #10",
+        "year": 2013,
+        "description": "Breve sinopsis de la película \"Terminator 2: Judgment Day #10\", estrenada en el año 2013. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+484"
+    },
+    {
+        "id": 485,
+        "title": "Back to the Future #10",
+        "year": 2014,
+        "description": "Breve sinopsis de la película \"Back to the Future #10\", estrenada en el año 2014. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+485"
+    },
+    {
+        "id": 486,
+        "title": "The Departed #10",
+        "year": 2015,
+        "description": "Breve sinopsis de la película \"The Departed #10\", estrenada en el año 2015. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+486"
+    },
+    {
+        "id": 487,
+        "title": "Django Unchained #10",
+        "year": 2016,
+        "description": "Breve sinopsis de la película \"Django Unchained #10\", estrenada en el año 2016. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+487"
+    },
+    {
+        "id": 488,
+        "title": "The Pianist #10",
+        "year": 2017,
+        "description": "Breve sinopsis de la película \"The Pianist #10\", estrenada en el año 2017. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+488"
+    },
+    {
+        "id": 489,
+        "title": "Avengers: Endgame #10",
+        "year": 2018,
+        "description": "Breve sinopsis de la película \"Avengers: Endgame #10\", estrenada en el año 2018. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+489"
+    },
+    {
+        "id": 490,
+        "title": "Avengers: Infinity War #10",
+        "year": 2019,
+        "description": "Breve sinopsis de la película \"Avengers: Infinity War #10\", estrenada en el año 2019. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+490"
+    },
+    {
+        "id": 491,
+        "title": "Jurassic Park #10",
+        "year": 2020,
+        "description": "Breve sinopsis de la película \"Jurassic Park #10\", estrenada en el año 2020. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+491"
+    },
+    {
+        "id": 492,
+        "title": "The Truman Show #10",
+        "year": 2021,
+        "description": "Breve sinopsis de la película \"The Truman Show #10\", estrenada en el año 2021. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+492"
+    },
+    {
+        "id": 493,
+        "title": "Mad Max: Fury Road #10",
+        "year": 2022,
+        "description": "Breve sinopsis de la película \"Mad Max: Fury Road #10\", estrenada en el año 2022. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+493"
+    },
+    {
+        "id": 494,
+        "title": "Alien #10",
+        "year": 2023,
+        "description": "Breve sinopsis de la película \"Alien #10\", estrenada en el año 2023. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+494"
+    },
+    {
+        "id": 495,
+        "title": "Aliens #10",
+        "year": 2024,
+        "description": "Breve sinopsis de la película \"Aliens #10\", estrenada en el año 2024. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+495"
+    },
+    {
+        "id": 496,
+        "title": "Toy Story #10",
+        "year": 1980,
+        "description": "Breve sinopsis de la película \"Toy Story #10\", estrenada en el año 1980. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+496"
+    },
+    {
+        "id": 497,
+        "title": "Toy Story 3 #10",
+        "year": 1981,
+        "description": "Breve sinopsis de la película \"Toy Story 3 #10\", estrenada en el año 1981. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+497"
+    },
+    {
+        "id": 498,
+        "title": "Coco #10",
+        "year": 1982,
+        "description": "Breve sinopsis de la película \"Coco #10\", estrenada en el año 1982. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+498"
+    },
+    {
+        "id": 499,
+        "title": "Up #10",
+        "year": 1983,
+        "description": "Breve sinopsis de la película \"Up #10\", estrenada en el año 1983. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+499"
+    },
+    {
+        "id": 500,
+        "title": "Inside Out #10",
+        "year": 1984,
+        "description": "Breve sinopsis de la película \"Inside Out #10\", estrenada en el año 1984. Este texto se utiliza como ejemplo para demostrar la vista de detalle en la aplicación reactiva.",
+        "image_url": "https://via.placeholder.com/300x450?text=Movie+500"
+    }
+]
