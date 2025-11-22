@@ -8,7 +8,7 @@ Permite realizar búsquedas en tiempo real, aplicar filtros, ver detalles, gesti
 
 # 🖼 Vista general del sistema
 
-![Vista general](./images/captura.png)
+![Vista general](./interfaz/captura.png)
 
 ---
 
