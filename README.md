@@ -10,10 +10,6 @@ Permite realizar búsquedas en tiempo real, aplicar filtros, ver detalles, gesti
 
 ![Vista general](./images/default-movie.jpg)
 
-🎥 **Ver video demostrativo**  
-
-[Click aquí para reproducir](./images/Video.mp4)
-
 ---
 
 # 🚀 Funcionalidades principales
